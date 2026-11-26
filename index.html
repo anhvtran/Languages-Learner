@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Từ vựng Séc · Pháp</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+/* VOICE: brisk, focused drill — a tool that opens mid-use; one switch picks Czech or French.
+   IDEA: a ruled exercise sheet where each answered cell folds the previous one away.
+   PICTURE: the drill grid itself, at the top.
+   COLOUR and TYPE: Czech flag blue ground band, white sheet, flag red for errors; Be Vietnam Pro (handles Czech + Vietnamese diacritics).
+   LAYOUT: compact header band, grid, controls below; stacks naturally on phones. */
+:root{color-scheme:light dark;--bg:light-dark(#f4f6fa,#0b1220);--sheet:light-dark(#fff,#121b2e);--ink:light-dark(#0f1a2c,#e8eef8);--mute:light-dark(#66738a,#8b98ae);--line:light-dark(#dfe5ee,#24304a);--blue:#11457e;--blue2:light-dark(#11457e,#5b8fd6);--red:#d7141a;--hdr:#11457e;--ok:light-dark(#0f6b3e,#5fd39a);--rev:light-dark(#9a5b00,#f0b45a);--act:light-dark(#e8f0fb,#1a2a48)}
+:root[data-lang=fr]{--blue:#1b3a8c;--blue2:light-dark(#1b3a8c,#6f93e6);--red:#e1000f;--hdr:#1b3a8c}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Be Vietnam Pro",system-ui,sans-serif;overflow-x:clip}
+header{background:var(--hdr);color:#fff;padding:14px max(4vw,14px) 12px;display:flex;flex-wrap:wrap;gap:8px 16px;align-items:baseline;justify-content:space-between}
+h1{margin:0;font-size:22px;line-height:1.1}
+.stats{display:flex;gap:14px;font-size:14px;opacity:.92;font-variant-numeric:tabular-nums;white-space:nowrap}
+.seg{display:inline-flex;background:rgba(255,255,255,.16);border-radius:12px;padding:3px;gap:3px}.seg button{min-height:38px;border:0;border-radius:9px;background:transparent;color:#fff;font-weight:600;padding:0 14px}.seg button[aria-pressed=true]{background:#fff;color:var(--hdr)}.hl{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.bar{height:4px;background:rgba(255,255,255,.25);width:100%;border-radius:2px;overflow:hidden}
+.bar i{display:block;height:100%;background:#fff;width:0;transition:width .2s}
+main{padding:12px max(4vw,14px) 40px;max-width:1240px;margin:0 auto}
+.sheet{background:var(--sheet);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{border-collapse:separate;border-spacing:0;font-size:15px}
+th,td{border-bottom:1px solid var(--line);border-right:1px solid var(--line);padding:0;height:46px;min-width:128px;max-width:170px}
+th{height:34px;font-size:13px;font-weight:600;color:var(--mute);background:var(--sheet);position:sticky;top:0;z-index:1}
+th.r1{border-left:3px solid var(--blue2)}
+th.n,td.n{min-width:36px;width:36px;position:sticky;left:0;background:var(--sheet);text-align:center;color:var(--mute);font-size:13px;z-index:2}
+td .t{padding:0 10px;display:flex;align-items:center;height:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+td.cz .t{font-weight:600}
+td.ok .t{color:var(--ok)}td.rev .t{color:var(--rev)}
+td.hid .t{color:var(--line);letter-spacing:3px}
+td.pend{background:repeating-linear-gradient(0deg,transparent 0 45px,var(--line) 45px 46px)}
+td.act{background:var(--act);box-shadow:inset 0 0 0 2px var(--blue2)}
+td input{width:100%;height:100%;border:0;background:transparent;color:var(--ink);font:inherit;font-size:16px;padding:0 10px;outline:none}
+td.bad{animation:sh .25s}
+@keyframes sh{25%{transform:translateX(-4px)}75%{transform:translateX(4px)}}
+@media (prefers-reduced-motion:reduce){td.bad{animation:none;box-shadow:inset 0 0 0 2px var(--red)}.bar i{transition:none}}
+.prompt{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:12px 0}
+.prompt .q{font-size:15px;color:var(--mute)}
+.prompt .q b{color:var(--ink);font-size:18px}
+button,select{font:inherit;font-size:15px;min-height:44px;border-radius:10px;border:1px solid var(--line);background:var(--sheet);color:var(--ink);padding:0 14px;cursor:pointer}
+button.pri{background:var(--blue);color:#fff;border-color:var(--blue)}
+button:focus-visible,select:focus-visible,textarea:focus-visible,input:focus-visible{outline:3px solid var(--blue2);outline-offset:2px}
+.ctl{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,150px),1fr));gap:10px;margin-top:16px}
+.ctl label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--mute)}
+.ctl label.ck{flex-direction:row;align-items:center;gap:8px;font-size:15px;color:var(--ink);min-height:44px}
+.ctl input[type=checkbox]{width:20px;height:20px}
+details{margin-top:18px;background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:10px 14px}
+summary{cursor:pointer;font-weight:600;min-height:32px;display:flex;align-items:center}
+textarea{width:100%;min-height:150px;font:14px/1.5 ui-monospace,monospace;border:1px solid var(--line);border-radius:8px;padding:8px;background:var(--bg);color:var(--ink)}
+.done{background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:18px;margin-top:12px}
+.done h2{margin:0 0 6px;font-size:26px;line-height:1.1}
+.done .row{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.hardl{color:var(--rev);font-size:15px}
+.note{font-size:13px;color:var(--mute);margin-top:10px}
+.hidden{display:none}
+.exp{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+#printArea{display:none}
+@media print{body>*:not(#printArea){display:none!important}#printArea{display:block;color:#000;background:#fff;font:12pt/1.4 Arial,sans-serif}#printArea table{border-collapse:collapse;width:100%}#printArea th,#printArea td{border:1px solid #999;padding:4px 6px;text-align:left;height:auto;min-width:0;max-width:none;position:static}#printArea h2{font-size:16pt;margin:0 0 8px}}
+</style>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#11457e">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Từ vựng">
+</head>
+<body>
+<header>
+  <div class="hl"><h1 id="ttl">Từ vựng</h1><div class="seg" aria-label="Chọn ngôn ngữ"><button id="lgcs" type="button" aria-pressed="true">Tiếng Séc</button><button id="lgfr" type="button" aria-pressed="false">Tiếng Pháp</button></div></div>
+  <div class="stats"><span id="sProg">0/0</span><span id="sErr">Sai: 0</span><span id="sTime">0:00</span></div>
+  <div class="bar"><i id="bar"></i></div>
+</header>
+<main>
+  <div class="prompt">
+    <span class="q" id="q"></span>
+    <span style="flex:1"></span>
+    <button id="bRev" type="button">Xem đáp án</button>
+    <button id="bSay" type="button">Nghe</button>
+  </div>
+  <div class="sheet"><div class="scroll" id="wrap"><table id="grid"></table></div></div>
+  <div class="done hidden" id="done"></div>
+
+  <div class="ctl">
+    <label><span id="dk">Bộ từ</span><select id="oDeck"></select></label>
+    <label>Số từ mỗi bộ<select id="oSize"><option>10</option><option selected>20</option><option>30</option><option>50</option><option>100</option></select></label>
+    <label><span id="rL">Số vòng CZ→EN→VI</span><select id="oRounds"><option>2</option><option>3</option><option selected>4</option></select></label>
+    <label>Thứ tự làm<select id="oOrder"><option value="row">Theo hàng (hết 1 từ rồi sang từ sau)</option><option value="col">Theo cột (cả bảng từng cột)</option></select></label>
+    <label class="ck"><input type="checkbox" id="oShuf"> Đảo thứ tự từ</label>
+    <label class="ck"><input type="checkbox" id="oTts" checked> <span id="ttsL">Đọc tiếng Séc</span></label>
+    <button class="pri" id="bStart" type="button">Bắt đầu lại</button>
+  </div>
+  <div class="exp">
+    <button id="bCopy" type="button">Sao chép bộ này (dán vào Excel)</button>
+    <button id="bCsv" class="offonly" type="button">Tải file .csv</button>
+    <button id="bPrint" class="offonly" type="button">In bộ này</button>
+  </div>
+  <p class="note" id="expNote"></p>
+  <p class="note" id="noteMain"></p>
+
+  <details>
+    <summary>Dùng danh sách từ của riêng bạn</summary>
+    <p class="note">Mỗi dòng: <code id="exFmt">tiếng Séc ; English ; tiếng Việt</code>. Nhiều nghĩa ngăn bằng <code>/</code>. Ví dụ: <code id="exLine">pes ; dog ; chó/con chó</code></p>
+    <textarea id="custom" spellcheck="false"></textarea>
+    <div class="row" style="display:flex;gap:8px;margin-top:8px;flex-wrap:wrap">
+      <button class="pri" id="bUse" type="button">Dùng danh sách này</button>
+      <button id="bDefault" type="button">Về danh sách mặc định</button>
+    </div>
+  </details>
+</main>
+<div id="printArea"></div>
+<script>
+{
+const RAW={cs:`být|be|là/thì/ở
+a|and|và
+v|in/at|trong/ở/tại
+se|oneself/self|tự/mình
+na|on/at|trên/vào
+ten|that/the|đó/ấy/này
+on|he|anh ấy/ông ấy/nó
+že|that|rằng/là
+s|with|với/cùng
+z|from/out of|từ/ra khỏi
+který|which/who|mà/nào/cái nào
+mít|have|có
+do|into/to|vào/đến
+já|I/me|tôi
+o|about|về
+k|to/towards|đến/tới/về phía
+i|and/also/even|và/cũng/ngay cả
+jeho|his/its|của anh ấy/của nó
+ale|but|nhưng
+svůj|own/one's own|của mình
+jako|as/like|như
+za|behind/for|sau/cho/vì
+moci|can/be able|có thể
+rok|year|năm
+pro|for|cho/vì
+tak|so/thus|vậy/thế/như vậy
+po|after|sau/sau khi
+tento|this|này
+co|what|gì/cái gì
+všechen|all|tất cả
+když|when/if|khi/nếu
+než|than/before|hơn/trước khi
+jen|only/just|chỉ
+další|next/another/further|tiếp theo/khác/nữa
+ještě|still/yet|vẫn/còn/nữa
+až|until|cho đến/đến khi
+také|also/too|cũng
+už|already|đã/rồi
+oni|they|họ
+jiný|other/different|khác
+ty|you|bạn/mày/em
+my|we|chúng tôi/chúng ta
+muset|must/have to|phải
+říci|say/tell|nói
+aby|so that/in order to|để/để mà
+chtít|want|muốn
+nebo|or|hoặc/hay
+jejich|their|của họ
+nový|new|mới
+velký|big/large/great|lớn/to
+člověk|person/human/man|người/con người
+první|first|đầu tiên/thứ nhất
+od|from/since|từ
+však|however/but|tuy nhiên/nhưng
+dobrý|good|tốt
+její|her/hers|của cô ấy/của bà ấy
+při|at/during|khi/trong lúc/tại
+podle|according to|theo
+mezi|between/among|giữa
+den|day|ngày
+dva|two|hai
+vědět|know|biết
+jak|how|thế nào/như thế nào/làm sao
+kde|where|ở đâu/đâu
+doba|time/period|thời gian/thời kỳ
+čas|time|thời gian
+život|life|cuộc sống/đời sống
+práce|work/job|công việc/việc làm
+dát|give|cho/đưa
+jít|go/walk|đi
+vidět|see|thấy/nhìn thấy
+dělat|do/make|làm
+ani|nor/not even|cũng không/thậm chí không
+nic|nothing|không gì/không có gì
+tady|here|ở đây/đây
+tam|there|ở đó/đó
+teď|now|bây giờ
+dnes|today|hôm nay
+země|country/land/earth|đất nước/đất/trái đất
+svět|world|thế giới
+město|city/town|thành phố
+dům|house/home|nhà/ngôi nhà
+ruka|hand/arm|tay/bàn tay
+oko|eye|mắt
+hlava|head|đầu
+voda|water|nước
+slovo|word|từ/lời
+otázka|question|câu hỏi
+věc|thing/matter|đồ vật/thứ/việc
+část|part|phần
+místo|place/instead|nơi/chỗ/thay vì
+cesta|way/road/trip|đường/con đường/chuyến đi
+strana|side/page/party|bên/phía/trang/đảng
+škola|school|trường/trường học
+dítě|child|đứa trẻ/trẻ em/con
+žena|woman/wife|phụ nữ/vợ
+muž|man/husband|đàn ông/chồng
+matka|mother|mẹ
+otec|father|bố/cha
+přítel|friend|bạn/người bạn
+malý|small/little|nhỏ/bé
+starý|old|cũ/già
+mladý|young|trẻ
+dlouhý|long|dài
+krátký|short|ngắn
+vysoký|high/tall|cao
+hlavní|main|chính
+možný|possible|có thể
+stejný|same|giống nhau/như nhau/cùng
+celý|whole/entire|toàn bộ/cả
+vlastní|own|riêng/của mình
+dobře|well/fine|tốt/ổn
+velmi|very|rất
+více|more|hơn/nhiều hơn
+často|often|thường/thường xuyên
+vždy|always|luôn/luôn luôn
+nikdy|never|không bao giờ
+hned|immediately/right away|ngay/ngay lập tức
+znovu|again|lại/lần nữa
+proč|why|tại sao/vì sao
+protože|because|vì/bởi vì
+pokud|if|nếu
+ano|yes|có/vâng/dạ
+ne|no/not|không
+tři|three|ba
+sto|hundred|trăm/một trăm
+tisíc|thousand|nghìn/ngàn
+peníze|money|tiền
+firma|company/firm|công ty
+stát|state/country|nhà nước/quốc gia
+vláda|government|chính phủ
+zákon|law|luật/pháp luật
+problém|problem|vấn đề
+případ|case|trường hợp
+číslo|number|số/con số
+konec|end|kết thúc/cuối
+začátek|beginning/start|bắt đầu/khởi đầu
+týden|week|tuần
+měsíc|month/moon|tháng/mặt trăng
+hodina|hour/lesson|giờ/tiết
+ráno|morning|buổi sáng/sáng
+večer|evening|buổi tối/tối
+noc|night|đêm/ban đêm
+jídlo|food/meal|thức ăn/đồ ăn/bữa ăn
+jíst|eat|ăn
+pít|drink|uống
+spát|sleep|ngủ
+mluvit|speak/talk|nói/nói chuyện
+psát|write|viết
+číst|read|đọc
+myslet|think|nghĩ/suy nghĩ
+znát|know|biết/quen
+začít|begin/start|bắt đầu
+přijít|come/arrive|đến/tới
+najít|find|tìm thấy
+bydlet|live/reside|sống/ở
+žít|live|sống
+pracovat|work|làm việc
+platit|pay|trả/trả tiền
+koupit|buy|mua
+prodávat|sell|bán
+hledat|look for/search|tìm/tìm kiếm
+čekat|wait|đợi/chờ
+potřebovat|need|cần
+rozumět|understand|hiểu
+učit se|learn/study|học
+pomoci|help|giúp/giúp đỡ
+ptát se|ask|hỏi
+odpovědět|answer/reply|trả lời
+otevřít|open|mở
+zavřít|close/shut|đóng
+dostat|get/receive|nhận/nhận được
+vzít|take|lấy/cầm
+nechat|leave/let|để/để lại
+zůstat|stay/remain|ở lại
+ukázat|show|chỉ/cho xem
+slyšet|hear|nghe/nghe thấy
+jet|go/ride/drive|đi/đi xe
+vlak|train|tàu/tàu hỏa
+auto|car|ô tô/xe hơi
+obchod|shop/store/trade|cửa hàng/thương mại
+byt|apartment/flat|căn hộ
+pokoj|room|phòng
+dveře|door|cửa/cửa ra vào
+okno|window|cửa sổ
+stůl|table|bàn
+kniha|book|sách/quyển sách
+jazyk|language/tongue|ngôn ngữ/tiếng/lưỡi
+jméno|name|tên
+telefon|phone|điện thoại
+lékař|doctor|bác sĩ
+nemocnice|hospital|bệnh viện
+úřad|office/authority|cơ quan/văn phòng
+ulice|street|phố/đường phố/đường
+levný|cheap|rẻ
+drahý|expensive/dear|đắt/thân yêu
+teplý|warm|ấm
+studený|cold|lạnh
+rychle|quickly/fast|nhanh
+pomalu|slowly|chậm/từ từ`,fr:`le|the|cái/mạo từ
+de|of/from|của/từ
+un|a/one|một
+être|be|là/thì/ở
+et|and|và
+à|to/at|ở/đến/tại
+il|he/it|anh ấy/nó
+avoir|have|có
+ne|not|không
+je|I|tôi
+son|his/her/its|của anh ấy/của cô ấy/của nó
+que|that/what|rằng/mà/gì
+se|oneself|tự/mình
+qui|who/which|ai/người mà
+ce|this/that|này/đó/cái này
+dans|in|trong
+en|in/of it|trong/ở/về nó
+pour|for|cho/để
+pas|not|không
+vous|you|bạn/các bạn/ông/bà
+par|by/through|bởi/qua
+sur|on|trên
+faire|do/make|làm
+plus|more|hơn/nữa
+dire|say/tell|nói
+me|me|tôi/mình
+on|one/we|người ta/chúng ta
+mon|my|của tôi
+lui|him/her|anh ấy/nó
+nous|we/us|chúng tôi/chúng ta
+comme|like/as|như
+mais|but|nhưng
+pouvoir|can/be able|có thể
+avec|with|với
+tout|all/everything|tất cả/mọi
+y|there|ở đó
+aller|go|đi
+voir|see|thấy/nhìn thấy
+bien|well/good|tốt/giỏi
+où|where|ở đâu/nơi mà
+sans|without|không có/mà không
+tu|you|bạn/mày/em
+ou|or|hoặc/hay
+leur|their/them|của họ/họ
+homme|man|người đàn ông/con người
+si|if/so|nếu/rất
+deux|two|hai
+moi|me|tôi
+vouloir|want|muốn
+te|you|bạn/mày
+femme|woman/wife|phụ nữ/vợ
+venir|come|đến/tới
+quand|when|khi/khi nào
+grand|big/tall/great|lớn/to/cao
+celui|the one|cái/người (mà)
+notre|our|của chúng tôi/của chúng ta
+devoir|must/owe|phải/nợ
+là|there|ở đó/đó
+jour|day|ngày
+prendre|take|lấy/cầm
+même|same/even|cùng/giống/thậm chí
+votre|your|của bạn/của các bạn
+rien|nothing|không gì
+petit|small/little|nhỏ/bé
+encore|still/again|vẫn/còn/lại
+aussi|also/too|cũng
+quelque|some|vài/một số
+dont|of which/whose|mà/của nó
+trouver|find|tìm thấy
+donner|give|cho/đưa
+temps|time/weather|thời gian/thời tiết
+ça|that/it|cái đó/điều đó
+peu|little/few|ít
+falloir|be necessary|cần/phải
+sous|under|dưới
+parler|speak/talk|nói/nói chuyện
+alors|then/so|vậy/thế thì/lúc đó
+savoir|know|biết
+toujours|always/still|luôn luôn/vẫn
+non|no|không
+an|year|năm
+autre|other|khác
+mettre|put|đặt/để/mặc
+ton|your|của bạn
+passer|pass/spend|đi qua/trải qua
+bon|good|tốt/ngon
+chose|thing|thứ/điều/đồ vật
+seul|alone/only|một mình/duy nhất
+cela|that|điều đó/cái đó
+ici|here|ở đây
+vie|life|cuộc sống/đời
+croire|believe|tin
+monde|world/people|thế giới/mọi người
+fois|time (occasion)|lần
+jamais|never|không bao giờ
+déjà|already|đã/rồi
+après|after|sau/sau khi
+oui|yes|vâng/có
+trois|three|ba
+nouveau|new|mới
+penser|think|nghĩ
+heure|hour/time|giờ/tiếng
+demander|ask|hỏi/yêu cầu
+rester|stay|ở lại/còn lại
+premier|first|đầu tiên/thứ nhất
+moins|less|ít hơn
+entre|between|giữa
+aimer|love/like|yêu/thích
+connaître|know|biết/quen
+main|hand|tay/bàn tay
+mot|word|từ/lời
+sentir|feel/smell|cảm thấy/ngửi
+laisser|leave/let|để/để lại
+beaucoup|a lot/much|nhiều
+partir|leave|rời đi/khởi hành
+pendant|during|trong suốt/trong khi
+oeil|eye|mắt
+regarder|look/watch|nhìn/xem
+enfant|child|đứa trẻ/con
+vers|towards|về phía/khoảng
+tête|head|đầu
+depuis|since/for|từ/từ khi
+maison|house/home|nhà/ngôi nhà
+devant|in front of|trước/phía trước
+contre|against|chống lại/dựa vào
+sortir|go out|đi ra/ra ngoài
+porte|door|cửa
+rendre|give back/make|trả lại/làm cho
+chez|at (someone's place)|ở nhà (ai đó)/tại
+jeune|young|trẻ
+attendre|wait|đợi/chờ
+pays|country|đất nước/quốc gia
+nuit|night|đêm/ban đêm
+ainsi|thus/so|như vậy/như thế
+vrai|true/real|thật/đúng
+vivre|live|sống
+comprendre|understand|hiểu
+entendre|hear|nghe thấy/nghe
+sembler|seem|có vẻ/dường như
+tenir|hold|cầm/giữ
+moment|moment|lúc/khoảnh khắc
+père|father|bố/cha
+mère|mother|mẹ
+part|part/share|phần
+fin|end|kết thúc/cuối
+air|air/look|không khí/vẻ
+place|place/square/seat|chỗ/quảng trường
+chercher|look for|tìm
+revenir|come back|quay lại/trở lại
+ami|friend|bạn/người bạn
+dernier|last|cuối cùng/vừa qua
+arriver|arrive/happen|đến/xảy ra
+tomber|fall|ngã/rơi
+mort|death/dead|cái chết/chết
+appeler|call|gọi
+commencer|begin|bắt đầu
+écrire|write|viết
+fille|girl/daughter|cô gái/con gái
+eau|water|nước
+quoi|what|gì/cái gì
+pourquoi|why|tại sao
+comment|how|như thế nào/làm sao
+bientôt|soon|sớm/chẳng bao lâu
+assez|enough/quite|đủ/khá
+trop|too/too much|quá/quá nhiều
+très|very|rất
+vite|quickly|nhanh
+loin|far|xa
+près|near|gần
+dehors|outside|bên ngoài
+dedans|inside|bên trong
+ensemble|together|cùng nhau
+parce que|because|bởi vì
+pourtant|however/yet|tuy nhiên/vậy mà
+donc|so/therefore|vì vậy/do đó
+car|because/for|vì
+puis|then|rồi/sau đó
+enfin|finally|cuối cùng
+maintenant|now|bây giờ
+aujourd'hui|today|hôm nay
+hier|yesterday|hôm qua
+demain|tomorrow|ngày mai
+soir|evening|buổi tối
+matin|morning|buổi sáng
+semaine|week|tuần
+mois|month|tháng
+monsieur|sir/Mr|ông/ngài
+madame|madam/Mrs|bà/quý bà
+gens|people|mọi người/người ta
+ville|city/town|thành phố
+rue|street|đường phố/phố
+argent|money/silver|tiền/bạc
+travail|work/job|công việc
+problème|problem|vấn đề
+question|question|câu hỏi/vấn đề
+raison|reason|lý do/lý trí
+façon|way/manner|cách
+coup|blow/hit|cú/cú đánh/lần
+idée|idea|ý tưởng
+cas|case|trường hợp`};
+
+const LANG=['cz','en','vi'],LN={cz:'CZ',en:'EN',vi:'VI'},LFULL={cz:'tiếng Séc',en:'tiếng Anh',vi:'tiếng Việt'};
+const LG_CFG={
+ cs:{short:'CZ',name:'tiếng Séc',Name:'Tiếng Séc',tts:'cs-CZ',file:'words-cs.txt',pre:'',ascii:'Sec',ex:'pes ; dog ; chó/con chó',
+  note:'So đáp án bỏ qua dấu (ř = r, ư = u, đ = d) và chữ hoa; với tiếng Anh không cần gõ "to". Ô nào có nhiều nghĩa, gõ một nghĩa bất kỳ là được. Danh sách có sẵn: 3.000 từ gốc thông dụng (mục tiêu B1), xếp gần đúng theo độ phổ biến: khoảng 200 từ đầu bám theo danh sách tần suất kho ngữ liệu tiếng Séc, các bộ sau đi từ từ hằng ngày tới từ đọc báo và chuyên môn. Tiến độ của mỗi thứ tiếng được lưu riêng trên trình duyệt này.'},
+ fr:{short:'FR',name:'tiếng Pháp',Name:'Tiếng Pháp',tts:'fr-FR',file:'words-fr.txt',pre:'fr:',ascii:'Phap',ex:'chien ; dog ; chó/con chó',
+  note:'So đáp án bỏ qua dấu (é = e, ç = c, ư = u, đ = d) và chữ hoa; không cần gõ mạo từ (le, la, l\', un, une); với tiếng Anh không cần gõ "to". Ô nào có nhiều nghĩa, gõ một nghĩa bất kỳ là được. Danh sách có sẵn: 3.000 từ gốc thông dụng (mục tiêu B1), xếp gần đúng theo độ phổ biến dựa trên các bảng tần suất chuẩn của tiếng Pháp; khoảng 250 từ đầu là những từ phổ biến nhất, các bộ sau đi từ từ hằng ngày tới từ đọc báo, hành chính và chuyên môn. Tiến độ của mỗi thứ tiếng được lưu riêng trên trình duyệt này.'}};
+let LG='cs',L=LG_CFG.cs;const CACHE={};
+const $=id=>document.getElementById(id);
+const store={get(k,d){try{const v=localStorage.getItem(L.pre+k);return v==null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(L.pre+k,JSON.stringify(v))}catch(e){}}};
+
+function parse(txt,sep){return txt.split('\n').map(l=>l.trim()).filter(Boolean).map(l=>{const p=l.split(sep).map(s=>s.trim());if(p.length<3)return null;return{cz:p[0].split('/').map(s=>s.trim()),en:p[1].split('/').map(s=>s.trim()),vi:p[2].split('/').map(s=>s.trim())}}).filter(Boolean)}
+function norm(s,lang){let n=s.toLowerCase().replace(/đ/g,'d').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/\(.*?\)/g,'').replace(/[^a-z0-9' ]/g,' ').replace(/\s+/g,' ').trim();if(lang==='en')n=n.replace(/^to /,'');if(lang==='cz'&&LG==='fr')n=n.replace(/^(le|la|les|un|une|des) (?=.)/,'').replace(/^l'(?=.)/,'');return n}
+function match(typed,alts,lang){const t=norm(typed,lang);return t.length>0&&alts.some(a=>norm(a,lang)===t)}
+const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+let DEF=[],ALL=[],words=[],R=4,C=12,st=[],order=[],pos=0,errs=0,revs=0,t0=0,tick=null,hard=new Set(),deckKey='';
+
+function loadList(){const c=store.get('custom',null);ALL=c?parse(c,';'):DEF;$('custom').value=c||''}
+function fillDecks(){const sz=+$('oSize').value,keep=$('oDeck').value,best=store.get('best',{});let h='';for(let i=0;i<ALL.length;i+=sz){const k=`${i}-${Math.min(i+sz,ALL.length)}`,b=best[sz+':'+k];h+=`<option value="${i}">Từ ${i+1}–${Math.min(i+sz,ALL.length)}${b?' ✓ '+fmt(b):''}</option>`}if(hard.size)h+=`<option value="hard">Ôn từ khó (${hard.size})</option>`;$('oDeck').innerHTML=h;const nd=Object.keys(best).filter(k=>k.startsWith(sz+':')).length;$('dk').textContent=`Bộ từ (đã xong ${nd}/${Math.ceil(ALL.length/sz)})`;if([...$('oDeck').options].some(o=>o.value===keep))$('oDeck').value=keep}
+function fmt(ms){const s=Math.round(ms/1000);return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')}
+
+function start(){
+  const sz=+$('oSize').value,d=$('oDeck').value;R=+$('oRounds').value;C=3*R;
+  if(d==='hard')words=ALL.filter(w=>hard.has(w.cz[0]));else{const i=+d||0;words=ALL.slice(i,i+sz)}
+  if(!words.length){words=ALL.slice(0,sz)}
+  deckKey=d==='hard'?'':sz+':'+`${+d}-${Math.min(+d+sz,ALL.length)}`;
+  if($('oShuf').checked){words=words.slice();for(let i=words.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[words[i],words[j]]=[words[j],words[i]]}}
+  st=words.map(()=>Array.from({length:C},(_,c)=>c===0?'show':'pend'));
+  order=[];if($('oOrder').value==='col'){for(let c=1;c<C;c++)for(let r=0;r<words.length;r++)order.push([r,c])}else{for(let r=0;r<words.length;r++)for(let c=1;c<C;c++)order.push([r,c])}
+  pos=0;errs=0;revs=0;t0=0;clearInterval(tick);$('sTime').textContent='0:00';
+  $('done').classList.add('hidden');
+  let h='<thead><tr><th class="n">#</th>';for(let c=0;c<C;c++)h+=`<th class="${c%3===0?'r1':''}">${LN[LANG[c%3]]} ${Math.floor(c/3)+1}</th>`;h+='</tr></thead><tbody>';
+  words.forEach((w,r)=>{h+=`<tr><td class="n">${r+1}</td>`;for(let c=0;c<C;c++)h+=`<td id="c${r}_${c}" class="${LANG[c%3]}"></td>`;h+='</tr>'});
+  $('grid').innerHTML=h+'</tbody>';
+  words.forEach((w,r)=>{for(let c=0;c<C;c++)paint(r,c)});
+  activate();store.set('opts',opts());
+}
+function paint(r,c){
+  const td=$(`c${r}_${c}`),s=st[r][c],w=words[r],lang=LANG[c%3];
+  td.classList.remove('pend','act','ok','rev','hid');
+  if(s==='pend'){td.classList.add('pend');td.innerHTML=''}
+  else if(s==='act'){td.classList.add('act');td.innerHTML=`<input id="inp" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="next" aria-label="Nghĩa ${LFULL[lang]}" placeholder="${LFULL[lang]}…">`}
+  else if(s==='hid'){td.classList.add('hid');td.innerHTML='<span class="t">•••</span>'}
+  else{td.classList.add(s==='rev'?'rev':s==='ok'?'ok':'show');td.innerHTML=`<span class="t">${esc(w[lang].join(' / '))}</span>`}
+}
+function activate(){
+  updStats();
+  if(pos>=order.length){finish();return}
+  const[r,c]=order[pos];st[r][c]='act';paint(r,c);
+  const inp=$('inp'),lang=LANG[c%3];
+  const prev=words[r][LANG[(c-1)%3]][0];
+  $('q').innerHTML=`Từ #${r+1}: <b>${esc(prev)}</b> → ${LFULL[lang]}`;
+  inp.addEventListener('input',()=>{if(!t0){t0=Date.now();tick=setInterval(()=>$('sTime').textContent=fmt(Date.now()-t0),500)}if(match(inp.value,words[r][lang],lang))complete('ok')});
+  inp.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();if(match(inp.value,words[r][lang],lang))complete('ok');else if(inp.value.trim()){errs++;updStats();const td=inp.parentElement;td.classList.remove('bad');void td.offsetWidth;td.classList.add('bad');inp.select()}}});
+  inp.focus({preventScroll:true});
+  inp.parentElement.scrollIntoView({block:'nearest',inline:'nearest',behavior:'smooth'});
+}
+function complete(kind){
+  const[r,c]=order[pos];st[r][c]=kind;paint(r,c);
+  if(kind==='rev'){revs++;hard.add(words[r].cz[0]);store.set('hard',[...hard])}
+  st[r][c-1]='hid';paint(r,c-1);
+  if(LANG[c%3]==='cz')say(words[r].cz[0]);
+  pos++;activate();
+}
+function say(t){if(!$('oTts').checked)return;try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang=L.tts;u.rate=.9;speechSynthesis.speak(u)}catch(e){}}
+function updStats(){$('sProg').textContent=`${pos}/${order.length}`;$('sErr').textContent=`Sai: ${errs+revs}`;$('bar').style.width=(order.length?100*pos/order.length:0)+'%'}
+function finish(){
+  clearInterval(tick);const ms=t0?Date.now()-t0:0;$('q').textContent='Xong bộ này.';
+  if(deckKey&&ms&&!revs){const b=store.get('best',{});if(!b[deckKey]||ms<b[deckKey]){b[deckKey]=ms;store.set('best',b)}}
+  const bad=words.filter(w=>hard.has(w.cz[0]));
+  $('done').innerHTML=`<h2>Hoàn thành ${words.length} từ trong ${fmt(ms)}</h2><div>Gõ sai: ${errs} · Xem đáp án: ${revs}</div>${bad.length?`<p class="hardl">Từ khó trong bộ: ${bad.map(w=>esc(w.cz[0])).join(', ')}</p>`:''}<div class="row"><button class="pri" id="dNext" type="button">Bộ tiếp theo</button><button id="dAgain" type="button">Làm lại bộ này</button>${hard.size?'<button id="dHard" type="button">Ôn từ khó</button>':''}${bad.length?'<button id="dClr" type="button">Bỏ đánh dấu từ khó của bộ này</button>':''}</div>`;
+  $('done').classList.remove('hidden');fillDecks();
+  $('dAgain').onclick=start;
+  $('dNext').onclick=()=>{const o=$('oDeck'),i=o.selectedIndex;if(i<o.options.length-1&&o.options[i+1].value!=='hard')o.selectedIndex=i+1;start()};
+  if($('dHard'))$('dHard').onclick=()=>{fillDecks();$('oDeck').value='hard';start()};
+  if($('dClr'))$('dClr').onclick=()=>{bad.forEach(w=>hard.delete(w.cz[0]));store.set('hard',[...hard]);fillDecks();$('dClr').remove()};
+  $('done').scrollIntoView({block:'nearest',behavior:'smooth'});
+}
+function opts(){return{size:$('oSize').value,rounds:$('oRounds').value,order:$('oOrder').value,shuf:$('oShuf').checked,tts:$('oTts').checked,deck:$('oDeck').value}}
+
+$('bRev').onclick=()=>{if(pos<order.length)complete('rev')};
+$('bSay').onclick=()=>{if(pos<order.length){const[r]=order[pos];const s=$('oTts').checked;$('oTts').checked=true;say(words[r].cz[0]);$('oTts').checked=s}};
+$('bStart').onclick=start;
+function deckTitle(){const o=$('oDeck');return o.options[o.selectedIndex]?o.options[o.selectedIndex].text.replace(/ ✓.*/,''):'Bộ từ'}
+function deckRows(){return words.map((w,i)=>[i+1,w.cz.join(' / '),w.en.join(' / '),w.vi.join(' / ')])}
+let HDR=['STT','Tiếng Séc','English','Tiếng Việt'];
+const isFile=location.protocol==='file:',inClaude=!!(window.claude&&window.claude.use),standalone=!inClaude;
+let DL=null;
+$('bPrint').classList.toggle('hidden',!standalone);$('bCsv').classList.toggle('hidden',!standalone);
+const NOTE0='Bấm Sao chép rồi dán vào Excel hoặc Google Sheets. Bản offline có thêm nút in.';
+$('expNote').textContent=standalone?'':NOTE0;
+try{if(inClaude)claude.use('downloads').then(d=>{if(d){DL=d;$('bCsv').classList.remove('hidden');$('expNote').textContent='Tải .csv mở được bằng Excel. Bản offline có thêm nút in.'}}).catch(()=>{})}catch(e){}
+$('bCopy').onclick=()=>{const t=[HDR,...deckRows()].map(r=>r.join('\t')).join('\n');
+  const ok=()=>{$('expNote').textContent=`Đã sao chép ${words.length} từ (${deckTitle()}). Dán vào ô A1 của Excel.`};
+  const fb=()=>{const ta=document.createElement('textarea');ta.value=t;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');ok()}catch(e){$('expNote').textContent='Không sao chép được trên trình duyệt này.'}ta.remove()};
+  try{navigator.clipboard.writeText(t).then(ok,fb)}catch(e){fb()}};
+$('bCsv').onclick=()=>{const q=v=>'"'+String(v).replace(/"/g,'""')+'"';const t='\ufeff'+[HDR,...deckRows()].map(r=>r.map(q).join(',')).join('\r\n');
+  const name='Tu vung tieng '+L.ascii+' - '+deckTitle().replace(/[^\w\u00C0-\u024F\u1E00-\u1EFF–-]+/g,' ').trim()+'.csv';
+  if(DL){DL.save({filename:name,data:t}).then(()=>{$('expNote').textContent='Đã lưu '+name}).catch(e=>{const c=e&&e.code;$('expNote').textContent=c==='declined'?'Đã hủy tải file.':c==='rate_limited'?'Đang có một yêu cầu tải khác, thử lại sau giây lát.':'Không tải được ở đây — dùng nút Sao chép.';if(c==='unavailable'||c==='not_granted'||c==='capability_disabled'||c==='capability_removed')$('bCsv').classList.add('hidden')});return}
+  const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([t],{type:'text/csv;charset=utf-8'}));a.download=name;document.body.appendChild(a);a.click();a.remove()};
+$('bPrint').onclick=()=>{$('printArea').innerHTML=`<h2>Từ vựng ${L.name} · ${esc(deckTitle())}</h2><table><thead><tr>${HDR.map(h=>`<th>${h}</th>`).join('')}</tr></thead><tbody>${deckRows().map(r=>`<tr>${r.map(c=>`<td>${esc(String(c))}</td>`).join('')}</tr>`).join('')}</tbody></table>`;window.print()};
+
+['oRounds','oOrder','oShuf','oDeck'].forEach(id=>$(id).addEventListener('change',start));
+$('oSize').addEventListener('change',()=>{fillDecks();start()});
+$('oTts').addEventListener('change',()=>store.set('opts',opts()));
+$('bUse').onclick=()=>{const t=$('custom').value;const l=parse(t,';');if(!l.length){$('custom').focus();return}store.set('custom',t);loadList();fillDecks();$('oDeck').selectedIndex=0;start()};
+$('bDefault').onclick=()=>{try{localStorage.removeItem(L.pre+'custom')}catch(e){}loadList();fillDecks();$('oDeck').selectedIndex=0;start()};
+
+function applyLang(code){
+  LG=LG_CFG[code]?code:'cs';L=LG_CFG[LG];
+  document.documentElement.dataset.lang=LG;document.documentElement.lang='vi';
+  $('lgcs').setAttribute('aria-pressed',LG==='cs');$('lgfr').setAttribute('aria-pressed',LG==='fr');
+  LN.cz=L.short;LFULL.cz=L.name;HDR=['STT',L.Name,'English','Tiếng Việt'];
+  $('rL').textContent=`Số vòng ${L.short}→EN→VI`;$('ttsL').textContent='Đọc '+L.name;
+  $('noteMain').textContent=L.note;$('exFmt').textContent=L.name+' ; English ; tiếng Việt';$('exLine').textContent=L.ex;
+  document.title='Từ vựng '+L.name;
+}
+function loadWords(code){
+  if(CACHE[code])return Promise.resolve(CACHE[code]);
+  const fb=()=>parse(RAW[code],'|');
+  const p=(location.protocol==='file:'||RAW[code].split('\n').length>2500)?Promise.resolve(fb()):
+    fetch(LG_CFG[code].file).then(r=>{if(!r.ok)throw 0;return r.text()}).then(t=>{const w=parse(t,'|');if(w.length<200)throw 0;return w}).catch(fb);
+  return p.then(w=>CACHE[code]=w);
+}
+function init(){
+loadList();hard=new Set(store.get('hard',[]));
+const o=store.get('opts',null);
+$('oSize').value=(o&&o.size)||'20';$('oRounds').value=(o&&o.rounds)||'4';$('oOrder').value=(o&&o.order)||'row';$('oShuf').checked=!!(o&&o.shuf);$('oTts').checked=!o||o.tts!==false;
+$('oDeck').innerHTML='';fillDecks();if(o&&o.deck&&[...$('oDeck').options].some(x=>x.value===o.deck))$('oDeck').value=o.deck;
+start();
+}
+function switchLang(code,fromHash){
+  if(!LG_CFG[code])code='cs';
+  try{if(order.length)store.set('opts',opts())}catch(e){}
+  applyLang(code);try{localStorage.setItem('lang',code)}catch(e){}
+  if(!fromHash&&location.hash!=='#'+code){try{history.replaceState(null,'','#'+code)}catch(e){location.hash=code}}
+  $('q').textContent='Đang tải danh sách từ…';$('grid').innerHTML='';$('done').classList.add('hidden');
+  return loadWords(code).then(w=>{if(LG!==code)return;DEF=w;init()});
+}
+$('lgcs').onclick=()=>{if(LG!=='cs')switchLang('cs')};
+$('lgfr').onclick=()=>{if(LG!=='fr')switchLang('fr')};
+addEventListener('hashchange',()=>{const h=location.hash.slice(1);if(LG_CFG[h]&&h!==LG)switchLang(h,true)});
+let first=location.hash.slice(1);if(!LG_CFG[first]){try{first=localStorage.getItem('lang')}catch(e){first=null}}
+switchLang(LG_CFG[first]?first:'cs',!!LG_CFG[location.hash.slice(1)]);
+}
+</script>
+<script>if("serviceWorker" in navigator&&!(window.claude&&window.claude.use)&&location.protocol!=="file:"){addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}</script>
+</body>
+</html>

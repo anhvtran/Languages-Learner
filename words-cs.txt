@@ -1,0 +1,3000 @@
+být|be|là/thì/ở
+a|and|và
+v|in/at|trong/ở/tại
+se|oneself/self|tự/mình
+na|on/at|trên/vào
+ten|that/the|đó/ấy/này
+on|he|anh ấy/ông ấy/nó
+že|that|rằng/là
+s|with|với/cùng
+z|from/out of|từ/ra khỏi
+který|which/who|mà/nào/cái nào
+mít|have|có
+do|into/to|vào/đến
+já|I/me|tôi
+o|about|về
+k|to/towards|đến/tới/về phía
+i|and/also/even|và/cũng/ngay cả
+jeho|his/its|của anh ấy/của nó
+ale|but|nhưng
+svůj|own/one's own|của mình
+jako|as/like|như
+za|behind/for|sau/cho/vì
+moci|can/be able|có thể
+rok|year|năm
+pro|for|cho/vì
+tak|so/thus|vậy/thế/như vậy
+po|after|sau/sau khi
+tento|this|này
+co|what|gì/cái gì
+všechen|all|tất cả
+když|when/if|khi/nếu
+než|than/before|hơn/trước khi
+jen|only/just|chỉ
+další|next/another/further|tiếp theo/khác/nữa
+ještě|still/yet|vẫn/còn/nữa
+až|until|cho đến/đến khi
+také|also/too|cũng
+už|already|đã/rồi
+oni|they|họ
+jiný|other/different|khác
+ty|you|bạn/mày/em
+my|we|chúng tôi/chúng ta
+muset|must/have to|phải
+říci|say/tell|nói
+aby|so that/in order to|để/để mà
+chtít|want|muốn
+nebo|or|hoặc/hay
+jejich|their|của họ
+nový|new|mới
+velký|big/large/great|lớn/to
+člověk|person/human/man|người/con người
+první|first|đầu tiên/thứ nhất
+od|from/since|từ
+však|however/but|tuy nhiên/nhưng
+dobrý|good|tốt
+její|her/hers|của cô ấy/của bà ấy
+při|at/during|khi/trong lúc/tại
+podle|according to|theo
+mezi|between/among|giữa
+den|day|ngày
+dva|two|hai
+vědět|know|biết
+jak|how|thế nào/như thế nào/làm sao
+kde|where|ở đâu/đâu
+doba|time/period|thời gian/thời kỳ
+čas|time|thời gian
+život|life|cuộc sống/đời sống
+práce|work/job|công việc/việc làm
+dát|give|cho/đưa
+jít|go/walk|đi
+vidět|see|thấy/nhìn thấy
+dělat|do/make|làm
+ani|nor/not even|cũng không/thậm chí không
+nic|nothing|không gì/không có gì
+tady|here|ở đây/đây
+tam|there|ở đó/đó
+teď|now|bây giờ
+dnes|today|hôm nay
+země|country/land/earth|đất nước/đất/trái đất
+svět|world|thế giới
+město|city/town|thành phố
+dům|house/home|nhà/ngôi nhà
+ruka|hand/arm|tay/bàn tay
+oko|eye|mắt
+hlava|head|đầu
+voda|water|nước
+slovo|word|từ/lời
+otázka|question|câu hỏi
+věc|thing/matter|đồ vật/thứ/việc
+část|part|phần
+místo|place/instead|nơi/chỗ/thay vì
+cesta|way/road/trip|đường/con đường/chuyến đi
+strana|side/page/party|bên/phía/trang/đảng
+škola|school|trường/trường học
+dítě|child|đứa trẻ/trẻ em/con
+žena|woman/wife|phụ nữ/vợ
+muž|man/husband|đàn ông/chồng
+matka|mother|mẹ
+otec|father|bố/cha
+přítel|friend|bạn/người bạn
+malý|small/little|nhỏ/bé
+starý|old|cũ/già
+mladý|young|trẻ
+dlouhý|long|dài
+krátký|short|ngắn
+vysoký|high/tall|cao
+hlavní|main|chính
+možný|possible|có thể
+stejný|same|giống nhau/như nhau/cùng
+celý|whole/entire|toàn bộ/cả
+vlastní|own|riêng/của mình
+dobře|well/fine|tốt/ổn
+velmi|very|rất
+více|more|hơn/nhiều hơn
+často|often|thường/thường xuyên
+vždy|always|luôn/luôn luôn
+nikdy|never|không bao giờ
+hned|immediately/right away|ngay/ngay lập tức
+znovu|again|lại/lần nữa
+proč|why|tại sao/vì sao
+protože|because|vì/bởi vì
+pokud|if|nếu
+ano|yes|có/vâng/dạ
+ne|no/not|không
+tři|three|ba
+sto|hundred|trăm/một trăm
+tisíc|thousand|nghìn/ngàn
+peníze|money|tiền
+firma|company/firm|công ty
+stát|state/country|nhà nước/quốc gia
+vláda|government|chính phủ
+zákon|law|luật/pháp luật
+problém|problem|vấn đề
+případ|case|trường hợp
+číslo|number|số/con số
+konec|end|kết thúc/cuối
+začátek|beginning/start|bắt đầu/khởi đầu
+týden|week|tuần
+měsíc|month/moon|tháng/mặt trăng
+hodina|hour/lesson|giờ/tiết
+ráno|morning|buổi sáng/sáng
+večer|evening|buổi tối/tối
+noc|night|đêm/ban đêm
+jídlo|food/meal|thức ăn/đồ ăn/bữa ăn
+jíst|eat|ăn
+pít|drink|uống
+spát|sleep|ngủ
+mluvit|speak/talk|nói/nói chuyện
+psát|write|viết
+číst|read|đọc
+myslet|think|nghĩ/suy nghĩ
+znát|know|biết/quen
+začít|begin/start|bắt đầu
+přijít|come/arrive|đến/tới
+najít|find|tìm thấy
+bydlet|live/reside|sống/ở
+žít|live|sống
+pracovat|work|làm việc
+platit|pay|trả/trả tiền
+koupit|buy|mua
+prodávat|sell|bán
+hledat|look for/search|tìm/tìm kiếm
+čekat|wait|đợi/chờ
+potřebovat|need|cần
+rozumět|understand|hiểu
+učit se|learn/study|học
+pomoci|help|giúp/giúp đỡ
+ptát se|ask|hỏi
+odpovědět|answer/reply|trả lời
+otevřít|open|mở
+zavřít|close/shut|đóng
+dostat|get/receive|nhận/nhận được
+vzít|take|lấy/cầm
+nechat|leave/let|để/để lại
+zůstat|stay/remain|ở lại
+ukázat|show|chỉ/cho xem
+slyšet|hear|nghe/nghe thấy
+jet|go/ride/drive|đi/đi xe
+vlak|train|tàu/tàu hỏa
+auto|car|ô tô/xe hơi
+obchod|shop/store/trade|cửa hàng/thương mại
+byt|apartment/flat|căn hộ
+pokoj|room|phòng
+dveře|door|cửa/cửa ra vào
+okno|window|cửa sổ
+stůl|table|bàn
+kniha|book|sách/quyển sách
+jazyk|language/tongue|ngôn ngữ/tiếng/lưỡi
+jméno|name|tên
+telefon|phone|điện thoại
+lékař|doctor|bác sĩ
+nemocnice|hospital|bệnh viện
+úřad|office/authority|cơ quan/văn phòng
+ulice|street|phố/đường phố/đường
+levný|cheap|rẻ
+drahý|expensive/dear|đắt/thân yêu
+teplý|warm|ấm
+studený|cold|lạnh
+rychle|quickly/fast|nhanh
+pomalu|slowly|chậm/từ từ
+ona|she|cô ấy/bà ấy/nó
+ono|it|nó
+vy|you (plural/formal)|các bạn/anh chị/ông bà
+můj|my|của tôi
+tvůj|your|của bạn
+náš|our|của chúng tôi/của chúng ta
+váš|your (plural/formal)|của các bạn/của anh chị
+každý|every/each|mỗi/mọi
+nějaký|some/any|nào đó/một số
+žádný|no/none|không ... nào/không có
+takový|such|như vậy/như thế
+jaký|what kind/what|như thế nào/loại gì/gì
+kdo|who|ai
+něco|something|cái gì đó/điều gì đó
+někdo|someone|ai đó
+nikdo|nobody|không ai
+sám|alone/oneself|tự mình/một mình
+kdy|when|khi nào/bao giờ
+kam|where to|đi đâu/đến đâu
+odkud|where from|từ đâu
+kolik|how much/how many|bao nhiêu
+někdy|sometimes|đôi khi/thỉnh thoảng
+někde|somewhere|đâu đó/ở đâu đó
+nikde|nowhere|không nơi nào/không ở đâu
+mnoho|many/much|nhiều
+málo|little/few|ít
+trochu|a little|một chút/hơi
+hodně|a lot|nhiều
+moc|very/too much|rất/quá
+příliš|too|quá
+skoro|almost|gần như/hầu như
+asi|probably/about|có lẽ/khoảng
+možná|maybe|có lẽ/có thể
+opravdu|really|thật sự/thực sự
+právě|just/exactly|vừa/đúng lúc/chính
+zase|again|lại
+potom|then/afterwards|sau đó
+pak|then|sau đó/rồi
+nyní|now|bây giờ/hiện nay
+dříve|earlier/before|trước đây/sớm hơn
+později|later|sau/muộn hơn
+brzy|soon/early|sớm/chẳng bao lâu
+včera|yesterday|hôm qua
+zítra|tomorrow|ngày mai
+zde|here|ở đây
+daleko|far|xa
+blízko|near|gần
+spolu|together|cùng nhau
+například|for example|ví dụ
+proto|therefore|vì vậy/do đó
+tedy|so/therefore|vậy/do đó
+jestli|if/whether|nếu/liệu
+přestože|although|mặc dù
+zatímco|while|trong khi
+kdyby|if (would)|nếu như
+stále|still/constantly|vẫn/liên tục
+pořád|still/all the time|vẫn/suốt
+vůbec|at all|chút nào/hoàn toàn
+dokonce|even|thậm chí
+úplně|completely|hoàn toàn
+docela|quite|khá
+jinak|otherwise|nếu không thì/khác
+bez|without|không có/mà không
+u|at/by|ở/bên cạnh/ở nhà
+před|before/in front of|trước/phía trước
+nad|above|trên/phía trên
+pod|under|dưới
+přes|over/across/through|qua/vượt qua
+proti|against|chống lại/đối diện
+kolem|around|xung quanh
+během|during|trong suốt/trong khi
+kvůli|because of|vì/do
+díky|thanks to|nhờ/cảm ơn
+vedle|next to|bên cạnh
+kromě|except/besides|ngoại trừ/ngoài ra
+jeden|one|một
+čtyři|four|bốn
+pět|five|năm
+šest|six|sáu
+sedm|seven|bảy
+osm|eight|tám
+devět|nine|chín
+deset|ten|mười
+dvacet|twenty|hai mươi
+druhý|second/other|thứ hai/khác
+třetí|third|thứ ba
+poslední|last|cuối cùng
+půl|half|nửa/rưỡi
+oba|both|cả hai
+milion|million|triệu
+procento|percent|phần trăm
+říkat|say/tell|nói
+dávat|give/put|cho/đưa/đặt
+brát|take|lấy/cầm
+chodit|go/walk|đi/đi bộ
+přijet|arrive|đến
+odejít|leave/go away|rời đi/đi khỏi
+odjet|leave/depart|khởi hành/đi khỏi
+vrátit|return/give back|trả lại
+vrátit se|return/come back|quay lại/trở về
+stát se|become/happen|trở thành/xảy ra
+udělat|do/make|làm/làm xong
+patřit|belong|thuộc về
+znamenat|mean|có nghĩa là
+zdát se|seem|có vẻ/dường như
+vypadat|look/seem|trông/có vẻ
+jmenovat se|be called|tên là
+ležet|lie|nằm
+sedět|sit|ngồi
+hrát|play|chơi
+volat|call|gọi
+poslat|send|gửi
+zkusit|try|thử
+snažit se|try/strive|cố gắng
+umět|know how/can|biết (làm)/có thể
+smět|be allowed|được phép
+líbit se|please/like|thích
+milovat|love|yêu
+doufat|hope|hy vọng
+bát se|be afraid|sợ
+věřit|believe|tin/tin tưởng
+cítit|feel|cảm thấy
+zapomenout|forget|quên
+pamatovat si|remember|nhớ
+poznat|recognize/get to know|nhận ra/làm quen
+zjistit|find out|phát hiện/tìm ra
+učit|teach|dạy
+studovat|study|học/nghiên cứu
+vysvětlit|explain|giải thích
+rozhodnout|decide|quyết định
+řešit|solve/deal with|giải quyết
+vytvořit|create|tạo ra
+připravit|prepare|chuẩn bị
+změnit|change|thay đổi
+pokračovat|continue|tiếp tục
+přestat|stop|ngừng/thôi
+skončit|end/finish|kết thúc
+zemřít|die|chết/qua đời
+narodit se|be born|được sinh ra
+dívat se|look/watch|nhìn/xem
+podívat se|have a look|xem/nhìn
+poslouchat|listen|nghe
+sledovat|follow/watch|theo dõi
+používat|use|sử dụng/dùng
+použít|use|sử dụng/dùng
+chybět|be missing|thiếu/vắng
+stačit|be enough|đủ
+trvat|last/take|kéo dài/mất
+přinést|bring|mang đến
+držet|hold|cầm/giữ
+počítat|count/calculate|đếm/tính
+vybrat|choose/select|chọn
+souhlasit|agree|đồng ý
+nabídnout|offer|đề nghị/mời
+přijmout|accept|chấp nhận/nhận
+lidé|people|người/mọi người
+rodina|family|gia đình
+syn|son|con trai
+dcera|daughter|con gái
+bratr|brother|anh trai/em trai/anh em
+sestra|sister/nurse|chị gái/em gái/y tá
+rodiče|parents|bố mẹ/cha mẹ
+manžel|husband|chồng
+manželka|wife|vợ
+kamarád|friend|bạn/bạn bè
+pán|gentleman/sir/Mr|ông/quý ông
+paní|lady/Mrs|bà/quý bà
+učitel|teacher|giáo viên/thầy giáo
+student|student|sinh viên
+ředitel|director/principal|giám đốc/hiệu trưởng
+policie|police|cảnh sát/công an
+prezident|president|tổng thống
+ministr|minister|bộ trưởng
+občan|citizen|công dân
+společnost|society/company|xã hội/công ty
+skupina|group|nhóm
+politika|politics/policy|chính trị/chính sách
+právo|right/law|quyền/luật
+systém|system|hệ thống
+program|program|chương trình
+plán|plan|kế hoạch
+cíl|goal/aim|mục tiêu
+výsledek|result|kết quả
+důvod|reason|lý do
+způsob|way/manner|cách/cách thức
+možnost|possibility/option|khả năng/lựa chọn
+situace|situation|tình huống/tình hình
+stav|state/condition|tình trạng/trạng thái
+změna|change|sự thay đổi/thay đổi
+úroveň|level|mức/trình độ
+hodnota|value|giá trị
+cena|price/prize|giá/giải thưởng
+smysl|sense/meaning|ý nghĩa/giác quan
+význam|meaning/importance|ý nghĩa/tầm quan trọng
+názor|opinion|ý kiến/quan điểm
+zájem|interest|sự quan tâm/lợi ích
+informace|information|thông tin
+zpráva|message/news/report|tin nhắn/tin tức/báo cáo
+noviny|newspaper|báo
+příběh|story|câu chuyện
+historie|history|lịch sử
+hudba|music|âm nhạc
+film|film/movie|phim
+hra|game/play|trò chơi/vở kịch
+počítač|computer|máy tính
+okamžik|moment|khoảnh khắc/lúc
+chvíle|while/moment|lúc/chốc lát
+minuta|minute|phút
+budoucnost|future|tương lai
+pondělí|Monday|thứ hai
+úterý|Tuesday|thứ ba
+středa|Wednesday|thứ tư
+čtvrtek|Thursday|thứ năm
+pátek|Friday|thứ sáu
+sobota|Saturday|thứ bảy
+neděle|Sunday|chủ nhật
+jaro|spring|mùa xuân
+léto|summer|mùa hè
+podzim|autumn|mùa thu
+zima|winter/cold|mùa đông/lạnh
+počasí|weather|thời tiết
+slunce|sun|mặt trời
+příroda|nature|thiên nhiên
+strom|tree|cây
+pes|dog|chó/con chó
+kočka|cat|mèo/con mèo
+maso|meat|thịt
+chléb|bread|bánh mì
+mléko|milk|sữa
+káva|coffee|cà phê
+pivo|beer|bia
+oběd|lunch|bữa trưa
+restaurace|restaurant|nhà hàng
+postel|bed|giường
+klíč|key|chìa khóa
+budova|building|tòa nhà
+nádraží|station|nhà ga
+autobus|bus|xe buýt
+tělo|body|cơ thể
+srdce|heart|tim/trái tim
+noha|leg/foot|chân
+pocit|feeling|cảm giác
+láska|love|tình yêu
+pravda|truth|sự thật
+chyba|mistake/error|lỗi/sai lầm
+pomoc|help|sự giúp đỡ/giúp đỡ
+odpověď|answer|câu trả lời
+válka|war|chiến tranh
+síla|strength/force|sức mạnh/lực
+vztah|relationship|mối quan hệ
+akce|event/action|sự kiện/hành động
+krok|step|bước
+směr|direction|hướng/phương hướng
+počet|number/count|số lượng
+řada|row/series|hàng/loạt/dãy
+druh|kind/type|loại/kiểu
+oblast|area/field|lĩnh vực/khu vực
+špatný|bad|xấu/tồi/sai
+český|Czech|tiếng Séc/thuộc Séc
+důležitý|important|quan trọng
+zajímavý|interesting|thú vị
+jednoduchý|simple|đơn giản
+těžký|heavy/difficult|nặng/khó
+rychlý|fast|nhanh
+silný|strong|mạnh
+krásný|beautiful|đẹp
+hezký|nice/pretty|đẹp/xinh
+šťastný|happy|hạnh phúc/vui
+plný|full|đầy
+volný|free/vacant|rảnh/trống/tự do
+běžný|common/ordinary|thông thường/phổ biến
+podobný|similar|giống/tương tự
+různý|various/different|khác nhau/đa dạng
+správný|correct/right|đúng
+nutný|necessary|cần thiết
+jistý|certain/sure|chắc chắn/nhất định
+skutečný|real|thực/thật
+známý|known/famous|nổi tiếng/quen
+základní|basic|cơ bản
+minulý|last/past|trước/qua
+příští|next|tới/sau
+současný|current|hiện nay/đương đại
+osobní|personal|cá nhân
+jediný|only/single|duy nhất
+černý|black|đen
+bílý|white|trắng
+červený|red|đỏ
+špatně|badly|tệ/kém/sai
+dlouho|long (time)|lâu
+konečně|finally|cuối cùng
+nakonec|in the end|cuối cùng/rốt cuộc
+obvykle|usually|thường/thông thường
+jednou|once|một lần/một ngày nào đó
+samozřejmě|of course|tất nhiên
+určitě|certainly|chắc chắn
+přesně|exactly|chính xác
+dost|enough/quite|đủ/khá
+taky|too/also|cũng
+rád|glad/gladly|vui/thích
+bohužel|unfortunately|tiếc là/thật không may
+děkuji|thank you|cảm ơn
+prosím|please|làm ơn/xin mời
+dobrý den|hello/good day|xin chào
+na shledanou|goodbye|tạm biệt
+ahoj|hi/bye|xin chào/tạm biệt
+promiňte|excuse me/sorry|xin lỗi
+vlastně|actually|thực ra
+zřejmě|apparently/obviously|rõ ràng/có vẻ
+spíš|rather|đúng hơn/thà
+hlavně|mainly|chủ yếu
+zejména|especially|đặc biệt là
+především|above all|trước hết
+ovšem|of course/however|tất nhiên/tuy nhiên
+přece|after all|dù sao/rõ ràng là
+totiž|you see/namely|bởi vì/tức là
+jakmile|as soon as|ngay khi
+dokud|as long as/until|chừng nào/cho đến khi
+či|or|hay/hoặc
+anebo|or|hoặc
+zda|whether|liệu
+jenž|who/which|mà
+čí|whose|của ai
+tolik|so much/so many|nhiều như vậy
+téměř|almost|gần như
+snad|perhaps/hopefully|có lẽ/mong là
+skutečně|really/actually|thực sự
+prostě|simply|đơn giản là/cứ
+zcela|completely|hoàn toàn
+poměrně|relatively|tương đối
+tu|here|ở đây
+nahoře|up/above|ở trên
+dole|down/below|ở dưới
+uvnitř|inside|bên trong
+venku|outside|bên ngoài
+vpravo|on the right|bên phải
+vlevo|on the left|bên trái
+rovně|straight|thẳng
+zpět|back|trở lại/quay lại
+dohromady|together/in total|cùng nhau/tổng cộng
+letos|this year|năm nay
+mimo|outside/except|ngoài/ngoại trừ
+okolo|around|xung quanh/khoảng
+naproti|opposite|đối diện
+jedenáct|eleven|mười một
+dvanáct|twelve|mười hai
+třicet|thirty|ba mươi
+čtyřicet|forty|bốn mươi
+padesát|fifty|năm mươi
+miliarda|billion|tỷ
+čtvrtý|fourth|thứ tư
+polovina|half|một nửa
+čtvrt|quarter|một phần tư
+mít rád|like|thích
+přát|wish|chúc/mong
+přát si|wish/want|mong muốn
+cítit se|feel|cảm thấy
+vzpomínat|remember/recall|nhớ lại/hồi tưởng
+zeptat se|ask|hỏi
+odpovídat|answer/correspond|trả lời/tương ứng
+kupovat|buy|mua
+prodat|sell|bán
+zaplatit|pay|trả tiền/trả
+počkat|wait|đợi/chờ
+napsat|write|viết
+přečíst|read|đọc
+naučit se|learn|học/học được
+vracet se|return|quay lại/trở về
+posílat|send|gửi
+nosit|carry/wear|mang/mặc
+nacházet|find|tìm thấy
+ukazovat|show|chỉ/cho thấy
+rozhodovat|decide|quyết định
+připravovat|prepare|chuẩn bị
+vytvářet|create|tạo ra
+dostávat|get/receive|nhận/nhận được
+pomáhat|help|giúp/giúp đỡ
+tvořit|form/create|tạo thành/tạo ra
+představovat|represent/introduce|đại diện/giới thiệu
+představit|introduce/present|giới thiệu
+představit si|imagine|tưởng tượng
+dozvědět se|learn/find out|biết được
+všimnout si|notice|để ý/nhận thấy
+uvědomit si|realize|nhận ra
+přemýšlet|think/ponder|suy nghĩ/cân nhắc
+pokusit se|attempt|cố gắng/thử
+objevit|discover|khám phá/phát hiện
+objevit se|appear|xuất hiện
+zmizet|disappear|biến mất
+existovat|exist|tồn tại
+obsahovat|contain|chứa/bao gồm
+konat se|take place|diễn ra
+probíhat|be going on|diễn ra
+vzniknout|arise/come into being|ra đời/hình thành
+vznikat|arise|hình thành/phát sinh
+působit|act/work/cause|tác động/làm việc
+ovlivnit|influence|ảnh hưởng
+záležet|depend/matter|phụ thuộc/quan trọng
+zajímat|interest|quan tâm/làm ... thích thú
+zajímat se|be interested|quan tâm
+starat se|take care|chăm sóc/lo
+zavolat|call|gọi
+vstát|get up|thức dậy/đứng dậy
+odpočívat|rest|nghỉ ngơi
+bolet|hurt|đau
+řídit|drive/manage|lái/quản lý
+jezdit|ride/travel|đi (xe)/lái
+setkat se|meet|gặp
+potkat|meet/run into|gặp
+navštívit|visit|thăm
+pozvat|invite|mời
+položit|put/lay|đặt/để
+otočit|turn|xoay/quay
+zapnout|turn on|bật
+vypnout|turn off|tắt
+opravit|repair/correct|sửa/sửa chữa
+ztratit|lose|mất/đánh mất
+vyhrát|win|thắng
+prohrát|lose (a game)|thua
+běžet|run|chạy
+nést|carry|mang/xách
+vést|lead|dẫn/lãnh đạo
+cestovat|travel|du lịch/đi lại
+letět|fly|bay
+zpívat|sing|hát
+tančit|dance|nhảy/múa
+povídat|chat/talk|nói chuyện/kể
+vyprávět|tell (a story)|kể
+žádat|request/ask|yêu cầu/đề nghị
+odmítnout|refuse|từ chối
+slíbit|promise|hứa
+dovolit|allow|cho phép
+chránit|protect|bảo vệ
+bojovat|fight|chiến đấu/đấu tranh
+zabít|kill|giết
+růst|grow|lớn lên/tăng
+zvýšit|increase|tăng
+snížit|reduce|giảm
+padat|fall|rơi/ngã
+spadnout|fall down|ngã/rơi
+stavět|build|xây/xây dựng
+postavit|build/put up|xây/dựng lên
+vařit|cook|nấu/nấu ăn
+mýt|wash|rửa
+uklízet|clean/tidy|dọn dẹp
+nakupovat|shop|mua sắm
+půjčit|lend/borrow|cho mượn/mượn
+vydělat|earn|kiếm (tiền)
+končit|end/finish|kết thúc
+zastavit|stop|dừng/dừng lại
+dívka|girl|cô gái
+chlapec|boy|cậu bé/con trai
+kluk|boy/guy|cậu bé/chàng trai
+holka|girl|cô gái
+babička|grandmother|bà
+dědeček|grandfather|ông
+soused|neighbour|hàng xóm
+zákazník|customer|khách hàng
+žák|pupil|học sinh
+šéf|boss|sếp
+kolega|colleague|đồng nghiệp
+pracovník|worker/employee|nhân viên/người lao động
+zaměstnanec|employee|nhân viên
+voják|soldier|lính/người lính
+obyvatel|inhabitant|cư dân/dân
+národ|nation|dân tộc/quốc gia
+organizace|organization|tổ chức
+volby|elections|bầu cử
+soud|court|tòa án
+smlouva|contract|hợp đồng
+dohoda|agreement|thỏa thuận
+pravidlo|rule|quy tắc/luật lệ
+projekt|project|dự án
+úkol|task|nhiệm vụ/bài tập
+příčina|cause|nguyên nhân
+účel|purpose|mục đích
+šance|chance|cơ hội
+příležitost|opportunity|cơ hội/dịp
+vývoj|development|sự phát triển
+rozvoj|development/growth|sự phát triển
+kvalita|quality|chất lượng
+náklady|costs|chi phí
+daň|tax|thuế
+plat|salary|lương
+příjem|income|thu nhập
+účet|account/bill|tài khoản/hóa đơn
+banka|bank|ngân hàng
+koruna|crown|đồng koruna/vương miện
+trh|market|thị trường/chợ
+ekonomika|economy|kinh tế/nền kinh tế
+průmysl|industry|công nghiệp
+podnik|enterprise/company|doanh nghiệp
+výroba|production|sản xuất
+služba|service|dịch vụ
+zboží|goods|hàng hóa
+výrobek|product|sản phẩm
+nabídka|offer/supply|lời mời/nguồn cung
+myšlenka|thought/idea|suy nghĩ/ý tưởng
+nápad|idea|ý tưởng
+pohled|view/look|cái nhìn/quan điểm
+zkušenost|experience|kinh nghiệm/trải nghiệm
+znalost|knowledge|kiến thức
+článek|article|bài báo
+text|text|văn bản
+dopis|letter|thư/lá thư
+dokument|document|tài liệu
+papír|paper|giấy
+stránka|page|trang
+dějiny|history|lịch sử
+kultura|culture|văn hóa
+umění|art|nghệ thuật
+píseň|song|bài hát
+obraz|picture/painting|bức tranh/hình ảnh
+fotografie|photograph|ảnh/bức ảnh
+divadlo|theatre|nhà hát/kịch
+sport|sport|thể thao
+zápas|match|trận đấu
+tým|team|đội
+věda|science|khoa học
+výzkum|research|nghiên cứu
+univerzita|university|trường đại học
+studium|study/studies|việc học/học tập
+zkouška|exam/test|kỳ thi/bài kiểm tra
+třída|class/classroom|lớp/lớp học
+internet|internet|internet/mạng
+síť|network/net|mạng/lưới
+technologie|technology|công nghệ
+stroj|machine|máy/máy móc
+zařízení|device/equipment|thiết bị
+energie|energy|năng lượng
+prostor|space|không gian
+století|century|thế kỷ
+období|period|giai đoạn/thời kỳ
+minulost|past|quá khứ
+datum|date|ngày tháng
+termín|deadline/date/term|hạn/thời hạn/thuật ngữ
+víkend|weekend|cuối tuần
+dovolená|holiday/vacation|kỳ nghỉ
+Vánoce|Christmas|Giáng sinh
+déšť|rain|mưa
+sníh|snow|tuyết
+vítr|wind|gió
+teplota|temperature|nhiệt độ
+nebe|sky/heaven|bầu trời/thiên đường
+les|forest|rừng
+květina|flower|hoa/bông hoa
+hora|mountain|núi
+řeka|river|sông
+moře|sea|biển
+zahrada|garden|vườn
+zvíře|animal|động vật/con vật
+pták|bird|chim
+ryba|fish|cá
+vejce|egg|trứng
+zelenina|vegetables|rau/rau củ
+ovoce|fruit|hoa quả/trái cây
+polévka|soup|súp/canh
+čaj|tea|trà
+víno|wine|rượu vang
+snídaně|breakfast|bữa sáng
+večeře|dinner|bữa tối
+kuchyně|kitchen/cuisine|nhà bếp/ẩm thực
+koupelna|bathroom|phòng tắm
+židle|chair|ghế
+světlo|light|ánh sáng/đèn
+zeď|wall|tường/bức tường
+patro|floor/storey|tầng
+náměstí|square|quảng trường
+most|bridge|cầu/cây cầu
+kostel|church|nhà thờ
+hrad|castle|lâu đài
+stanice|station/stop|trạm/ga
+zastávka|stop|điểm dừng/trạm
+letiště|airport|sân bay
+letadlo|airplane|máy bay
+tramvaj|tram|xe điện
+kolo|bicycle/wheel|xe đạp/bánh xe
+jízdenka|ticket|vé/vé tàu xe
+doprava|transport/traffic|giao thông/vận tải
+silnice|road|đường/đường bộ
+adresa|address|địa chỉ
+sever|north|phía bắc
+jih|south|phía nam
+východ|east/exit|phía đông/lối ra
+západ|west|phía tây
+pošta|post office/mail|bưu điện/thư
+nemoc|illness|bệnh/căn bệnh
+zdraví|health|sức khỏe
+lék|medicine|thuốc
+obličej|face|khuôn mặt/mặt
+ucho|ear|tai
+ústa|mouth|miệng
+vlasy|hair|tóc
+krev|blood|máu
+bolest|pain|cơn đau/nỗi đau
+radost|joy|niềm vui
+strach|fear|nỗi sợ/sự sợ hãi
+štěstí|happiness/luck|hạnh phúc/may mắn
+naděje|hope|hy vọng
+rada|advice/council|lời khuyên/hội đồng
+žádost|application/request|đơn/yêu cầu
+mír|peace|hòa bình
+armáda|army|quân đội
+bezpečnost|security/safety|an ninh/an toàn
+nebezpečí|danger|nguy hiểm/mối nguy
+boj|fight/struggle|cuộc chiến/đấu tranh
+vliv|influence|ảnh hưởng
+kontakt|contact|liên lạc/liên hệ
+setkání|meeting|cuộc gặp
+událost|event|sự kiện
+činnost|activity|hoạt động
+pohyb|movement|chuyển động
+střed|centre/middle|trung tâm/giữa
+centrum|centre|trung tâm
+tvar|shape|hình dạng
+barva|colour|màu/màu sắc
+velikost|size|kích thước/cỡ
+množství|amount|lượng/số lượng
+seznam|list|danh sách
+typ|type|loại/kiểu
+forma|form|hình thức/dạng
+obsah|content|nội dung
+téma|topic|chủ đề
+kraj|region|vùng/tỉnh
+obec|municipality|xã/làng/đô thị
+vesnice|village|làng
+hranice|border|biên giới
+Evropa|Europe|châu Âu
+republika|republic|cộng hòa
+evropský|European|châu Âu/thuộc châu Âu
+národní|national|quốc gia
+státní|state|nhà nước/quốc gia
+veřejný|public|công cộng/công khai
+politický|political|chính trị
+sociální|social|xã hội
+místní|local|địa phương
+mezinárodní|international|quốc tế
+lehký|light/easy|nhẹ/dễ
+pomalý|slow|chậm
+slabý|weak|yếu
+smutný|sad|buồn
+unavený|tired|mệt
+nemocný|ill/sick|ốm/bệnh
+bohatý|rich|giàu
+prázdný|empty|trống/rỗng
+otevřený|open|mở/cởi mở
+čistý|clean|sạch
+moderní|modern|hiện đại
+normální|normal|bình thường
+zvláštní|special/strange|đặc biệt/kỳ lạ
+přesný|exact|chính xác
+schopný|capable|có khả năng
+hotový|finished/ready|xong/hoàn thành
+pravý|real/right|thật/bên phải
+levý|left|bên trái
+blízký|close/near|gần/thân
+nízký|low|thấp
+horký|hot|nóng
+modrý|blue|xanh dương/xanh lam
+zelený|green|xanh lá
+milý|kind/dear|dễ thương/tử tế/thân mến
+vážný|serious|nghiêm túc/nghiêm trọng
+spokojený|satisfied|hài lòng
+společný|common/joint|chung
+vhodný|suitable|phù hợp
+bezpečný|safe|an toàn
+lépe|better|tốt hơn
+zároveň|at the same time|đồng thời
+najednou|suddenly|đột nhiên
+většinou|mostly|phần lớn/thường
+občas|occasionally|thỉnh thoảng
+jasně|clearly/sure|rõ ràng/tất nhiên
+velice|very|rất
+nejen|not only|không chỉ
+naštěstí|fortunately|may mắn là
+zdarma|free of charge|miễn phí
+vietnamský|Vietnamese|tiếng Việt/thuộc Việt Nam
+anglický|English|tiếng Anh/thuộc Anh
+světový|world|thế giới
+soukromý|private|riêng tư/tư nhân
+ekonomický|economic|kinh tế
+složitý|complicated|phức tạp
+snadný|easy|dễ
+obtížný|difficult|khó khăn
+ošklivý|ugly|xấu
+pěkný|nice|đẹp/hay
+veselý|cheerful|vui vẻ
+zdravý|healthy|khỏe mạnh
+mrtvý|dead|chết
+živý|alive/lively|sống/sinh động
+chudý|poor|nghèo
+svobodný|free/single|tự do/độc thân
+zavřený|closed|đóng/đóng cửa
+špinavý|dirty|bẩn
+tradiční|traditional|truyền thống
+obyčejný|ordinary|bình thường
+divný|strange|kỳ lạ/lạ
+rozdílný|different|khác nhau
+potřebný|needed|cần thiết
+připravený|ready/prepared|sẵn sàng
+přední|front/leading|phía trước/hàng đầu
+zadní|back/rear|phía sau
+horní|upper|trên/phía trên
+dolní|lower|dưới/phía dưới
+vnitřní|internal|bên trong/nội bộ
+vnější|external|bên ngoài
+daleký|far|xa
+hluboký|deep|sâu
+široký|wide|rộng
+úzký|narrow|hẹp
+tlustý|thick/fat|dày/béo
+tenký|thin|mỏng
+hubený|thin/skinny|gầy
+chladný|cool/cold|mát/lạnh
+suchý|dry|khô
+mokrý|wet|ướt
+tichý|quiet|yên tĩnh
+hlasitý|loud|to/ồn
+tmavý|dark|tối/sẫm
+světlý|light/bright|sáng/nhạt
+žlutý|yellow|vàng
+šedý|grey|xám
+hnědý|brown|nâu
+oranžový|orange|cam
+růžový|pink|hồng
+fialový|purple|tím
+sladký|sweet|ngọt
+kyselý|sour|chua
+slaný|salty|mặn
+hořký|bitter|đắng
+chutný|tasty|ngon
+čerstvý|fresh|tươi
+hladový|hungry|đói
+hodný|good/kind|ngoan/tốt bụng
+zlý|evil/bad|ác/xấu
+chytrý|clever|thông minh
+hloupý|stupid|ngốc
+líný|lazy|lười
+pilný|diligent|chăm chỉ
+klidný|calm|bình tĩnh/yên bình
+nervózní|nervous|lo lắng/hồi hộp
+neznámý|unknown|không rõ/lạ
+slavný|famous|nổi tiếng
+celkový|overall|tổng thể/toàn bộ
+konečný|final|cuối cùng
+dnešní|today's|hôm nay/ngày nay
+budoucí|future|tương lai
+dávný|ancient|xa xưa
+denní|daily|hằng ngày
+roční|annual|hằng năm
+samotný|itself/alone|bản thân/riêng
+nemožný|impossible|không thể
+pravděpodobný|probable|có khả năng/có thể xảy ra
+nebezpečný|dangerous|nguy hiểm
+hůře|worse|tệ hơn
+krátce|briefly|ngắn gọn/một lát
+náhle|suddenly|đột ngột
+nejdřív|first|trước tiên
+zpočátku|at first|lúc đầu
+dvakrát|twice|hai lần
+jistě|surely|chắc chắn
+podél|along|dọc theo
+skrz|through|xuyên qua
+dobrou noc|good night|chúc ngủ ngon
+přicházet|come/arrive|đến
+odcházet|leave|rời đi
+vycházet|go out/come out|đi ra/xuất phát
+vyjít|go out/come out|đi ra/được phát hành
+vejít|enter|đi vào
+vstoupit|enter|bước vào/gia nhập
+projít|go through/pass|đi qua/vượt qua
+přejít|cross|băng qua/chuyển sang
+dojít|reach/run out|đến/hết
+utéct|run away|chạy trốn
+sednout si|sit down|ngồi xuống
+lehnout si|lie down|nằm xuống
+bavit se|talk/have fun|nói chuyện/vui chơi
+smát se|laugh|cười
+usmívat se|smile|mỉm cười
+plakat|cry|khóc
+křičet|shout|hét
+mlčet|be silent|im lặng
+kreslit|draw|vẽ
+malovat|paint|vẽ/sơn
+fotit|take photos|chụp ảnh
+tisknout|print|in
+kopírovat|copy|sao chép
+stáhnout|download/pull down|tải xuống
+nahrát|upload/record|tải lên/ghi âm
+přihlásit se|log in/register|đăng nhập/đăng ký
+odhlásit se|log out|đăng xuất/hủy đăng ký
+objednat|order|đặt/đặt hàng
+rezervovat|reserve/book|đặt chỗ/đặt trước
+zrušit|cancel|hủy
+vyzvednout|pick up|lấy/nhận
+doručit|deliver|giao/giao hàng
+přidat|add|thêm
+odstranit|remove|loại bỏ/xóa
+smazat|delete|xóa
+nahradit|replace|thay thế
+spojit|connect|kết nối/nối
+rozdělit|divide|chia
+sdílet|share|chia sẻ
+sbírat|collect|sưu tầm/thu thập
+získat|gain/obtain|đạt được/giành được
+dosáhnout|achieve/reach|đạt được
+splnit|fulfil|hoàn thành/thực hiện
+provést|carry out|thực hiện/tiến hành
+zajistit|ensure/provide|đảm bảo/cung cấp
+poskytnout|provide|cung cấp
+nabízet|offer|cung cấp/mời
+podporovat|support|ủng hộ/hỗ trợ
+sloužit|serve|phục vụ
+organizovat|organize|tổ chức
+plánovat|plan|lên kế hoạch
+očekávat|expect|mong đợi/kỳ vọng
+předpokládat|assume|giả định/cho rằng
+považovat|consider|coi là/cho là
+souviset|be related|liên quan
+týkat se|concern|liên quan đến
+jednat|act/negotiate|hành động/đàm phán
+chovat se|behave|cư xử
+zabývat se|deal with|nghiên cứu/giải quyết
+věnovat|devote|dành/cống hiến
+zaměřit se|focus|tập trung
+soustředit se|concentrate|tập trung
+podařit se|succeed|thành công/làm được
+hrozit|threaten|đe dọa
+varovat|warn|cảnh báo
+bránit|defend/prevent|bảo vệ/ngăn cản
+zabránit|prevent|ngăn chặn
+útočit|attack|tấn công
+zvítězit|win|chiến thắng
+porazit|defeat|đánh bại
+soutěžit|compete|thi đấu/cạnh tranh
+trénovat|train|tập luyện
+cvičit|exercise/practise|tập thể dục/luyện tập
+běhat|run|chạy
+skákat|jump|nhảy
+hořet|burn|cháy
+svítit|shine|chiếu sáng/sáng
+pršet|rain|mưa
+sněžit|snow|tuyết rơi
+foukat|blow|thổi
+vonět|smell nice|thơm
+chutnat|taste|có vị/ngon
+ochutnat|taste/try|nếm thử
+kouřit|smoke|hút thuốc
+péct|bake|nướng
+smažit|fry|chiên/rán
+krájet|cut/slice|cắt/thái
+prát|wash (clothes)|giặt
+stěhovat se|move (house)|chuyển nhà
+pronajmout|rent|thuê/cho thuê
+ubytovat se|check in/stay|nhận phòng/ở trọ
+seznámit se|get acquainted|làm quen
+oženit se|marry (man)|lấy vợ
+vdát se|marry (woman)|lấy chồng
+rozvést se|divorce|ly hôn
+vychovávat|raise/bring up|nuôi dạy
+onemocnět|fall ill|bị ốm
+uzdravit se|recover|khỏi bệnh/bình phục
+vyšetřit|examine|khám/điều tra
+zkoumat|examine/investigate|nghiên cứu/khảo sát
+měnit|change|thay đổi
+vyměnit|exchange|đổi/trao đổi
+pochopit|understand/grasp|hiểu ra
+přeložit|translate|dịch
+opakovat|repeat|lặp lại/nhắc lại
+probudit se|wake up|thức dậy
+usnout|fall asleep|ngủ thiếp đi
+obléknout|dress/put on|mặc
+nastoupit|get on|lên (xe)/bắt đầu
+vystoupit|get off|xuống (xe)
+přestoupit|change (trains)|đổi tàu/chuyển tuyến
+odnést|take away|mang đi
+přivést|bring (a person)|dẫn đến/đưa đến
+hodit|throw|ném
+chytit|catch|bắt
+tlačit|push|đẩy
+táhnout|pull|kéo
+nastavit|set/adjust|cài đặt/điều chỉnh
+rozbít|break|làm vỡ
+zničit|destroy|phá hủy
+měřit|measure|đo
+vážit|weigh|cân/nặng
+srovnat|compare|so sánh
+hodnotit|evaluate|đánh giá
+volit|vote/choose|bầu/chọn
+zvolit|elect/choose|bầu/chọn
+zkoušet|try/test|thử/kiểm tra
+zkontrolovat|check|kiểm tra
+ověřit|verify|xác minh
+uznat|acknowledge|công nhận/thừa nhận
+přiznat|admit|thừa nhận
+tvrdit|claim|khẳng định/cho rằng
+popsat|describe|mô tả
+uvést|state/mention|nêu/đưa ra
+zmínit|mention|đề cập
+oznámit|announce|thông báo
+informovat|inform|thông báo
+prohlásit|declare|tuyên bố
+podepsat|sign|ký
+vyplnit|fill in|điền
+předložit|submit/present|nộp/trình
+schválit|approve|phê duyệt/thông qua
+povolit|permit|cho phép
+zakázat|forbid|cấm
+zvyšovat|increase|tăng
+snižovat|reduce|giảm
+zlepšit|improve|cải thiện
+zhoršit|worsen|làm xấu đi
+domnívat se|suppose|cho rằng
+hodlat|intend|định
+ušetřit|save|tiết kiệm
+utrácet|spend|tiêu (tiền)
+policista|police officer|cảnh sát/công an
+poslanec|deputy/MP|nghị sĩ
+zaměstnavatel|employer|chủ lao động
+ministerstvo|ministry|bộ
+parlament|parliament|quốc hội
+krize|crisis|khủng hoảng
+konflikt|conflict|xung đột
+dopad|impact|tác động
+následek|consequence|hậu quả
+riziko|risk|rủi ro
+podmínka|condition|điều kiện
+požadavek|requirement|yêu cầu
+nárok|claim/entitlement|quyền lợi/quyền đòi
+povinnost|duty/obligation|nghĩa vụ/bổn phận
+odpovědnost|responsibility|trách nhiệm
+rozhodnutí|decision|quyết định
+řešení|solution|giải pháp
+návrh|proposal|đề xuất/dự thảo
+opatření|measure|biện pháp
+podpora|support|sự hỗ trợ/ủng hộ
+péče|care|sự chăm sóc
+ochrana|protection|bảo vệ/sự bảo vệ
+kontrola|check/control|kiểm tra/kiểm soát
+správa|administration|quản lý/hành chính
+vedení|management/leadership|ban lãnh đạo/quản lý
+spolupráce|cooperation|hợp tác
+rozhovor|conversation/interview|cuộc trò chuyện/phỏng vấn
+diskuse|discussion|thảo luận
+hlas|voice/vote|giọng nói/phiếu bầu
+zvuk|sound|âm thanh
+řeč|speech/language|lời nói/ngôn ngữ
+věta|sentence|câu
+písmeno|letter (of alphabet)|chữ cái
+kapitola|chapter|chương
+příklad|example|ví dụ
+cvičení|exercise|bài tập
+lekce|lesson|bài học
+tabulka|table/chart|bảng
+obrázek|picture|hình/bức tranh
+graf|graph|đồ thị/biểu đồ
+údaj|data/figure|số liệu/dữ liệu
+data|data|dữ liệu
+metoda|method|phương pháp
+teorie|theory|lý thuyết
+model|model|mô hình
+proces|process|quá trình
+funkce|function|chức năng/hàm
+struktura|structure|cấu trúc
+prvek|element|yếu tố/nguyên tố
+látka|substance/fabric|chất/vải
+částice|particle|hạt
+vlastnost|property/quality|tính chất/đặc tính
+jev|phenomenon|hiện tượng
+pokus|attempt/experiment|nỗ lực/thí nghiệm
+analýza|analysis|phân tích
+studie|study|nghiên cứu
+věk|age|tuổi
+narozeniny|birthday|sinh nhật
+svatba|wedding|đám cưới
+dárek|gift|quà
+host|guest|khách
+návštěva|visit|chuyến thăm/khách
+večírek|party|bữa tiệc
+oslava|celebration|lễ kỷ niệm/buổi ăn mừng
+zábava|fun/entertainment|giải trí/vui chơi
+koníček|hobby|sở thích
+volno|free time/day off|thời gian rảnh/ngày nghỉ
+oblečení|clothes|quần áo
+bota|shoe|giày
+kabát|coat|áo khoác
+košile|shirt|áo sơ mi
+kalhoty|trousers|quần
+šaty|dress|váy/đầm
+čepice|cap/hat|mũ
+taška|bag|túi
+kufr|suitcase|vali
+deštník|umbrella|ô/dù
+brýle|glasses|kính
+hodinky|watch|đồng hồ đeo tay
+hodiny|clock|đồng hồ
+mobil|mobile phone|điện thoại di động
+zaměstnání|employment/job|việc làm
+povolání|occupation|nghề nghiệp
+kancelář|office|văn phòng
+schůzka|appointment/meeting|cuộc hẹn
+porada|meeting|cuộc họp
+schůze|meeting|cuộc họp
+jednání|negotiation/meeting|đàm phán/cuộc họp
+konference|conference|hội nghị
+směna|shift|ca/ca làm việc
+inženýr|engineer|kỹ sư
+vědec|scientist|nhà khoa học
+prodavač|shop assistant|người bán hàng
+řidič|driver|tài xế/người lái xe
+kuchař|cook/chef|đầu bếp
+právník|lawyer|luật sư
+novinář|journalist|nhà báo
+spisovatel|writer|nhà văn
+umělec|artist|nghệ sĩ
+podnikatel|entrepreneur|doanh nhân
+dělník|worker|công nhân
+zemědělec|farmer|nông dân
+autor|author|tác giả
+člen|member|thành viên
+vedoucí|head/manager|trưởng/người quản lý
+předseda|chairman|chủ tịch
+hráč|player|cầu thủ/người chơi
+trenér|coach|huấn luyện viên
+divák|spectator|khán giả
+čtenář|reader|độc giả
+uživatel|user|người dùng
+účastník|participant|người tham gia
+pacient|patient|bệnh nhân
+oběť|victim/sacrifice|nạn nhân/sự hy sinh
+král|king|vua
+Bůh|God|Chúa/Thượng đế
+víra|faith|đức tin/niềm tin
+duše|soul|linh hồn/tâm hồn
+smrt|death|cái chết
+sekunda|second|giây
+přítomnost|present/presence|hiện tại/sự có mặt
+svátek|holiday/name day|ngày lễ/ngày tên
+prázdniny|holidays|kỳ nghỉ/nghỉ hè
+leden|January|tháng một
+únor|February|tháng hai
+březen|March|tháng ba
+duben|April|tháng tư
+květen|May|tháng năm
+červen|June|tháng sáu
+červenec|July|tháng bảy
+srpen|August|tháng tám
+září|September|tháng chín
+říjen|October|tháng mười
+listopad|November|tháng mười một
+prosinec|December|tháng mười hai
+mráz|frost|băng giá/sương giá
+obloha|sky|bầu trời
+mrak|cloud|mây/đám mây
+hvězda|star|ngôi sao
+tráva|grass|cỏ
+kopec|hill|đồi
+jezero|lake|hồ
+ostrov|island|đảo
+pole|field|cánh đồng
+park|park|công viên
+kůň|horse|ngựa
+kráva|cow|bò
+prase|pig|lợn/heo
+kuře|chicken|gà/thịt gà
+rohlík|bread roll|bánh mì nhỏ
+sýr|cheese|phô mai
+máslo|butter|bơ
+rýže|rice|gạo/cơm
+brambory|potatoes|khoai tây
+jablko|apple|táo
+cukr|sugar|đường
+sůl|salt|muối
+nápoj|drink|đồ uống
+hospoda|pub|quán bia/quán rượu
+kavárna|café|quán cà phê
+talíř|plate|đĩa
+hrnek|mug|cốc
+sklenice|glass|ly/cốc
+lžíce|spoon|thìa/muỗng
+nůž|knife|dao
+vidlička|fork|nĩa/dĩa
+lednice|fridge|tủ lạnh
+záchod|toilet|nhà vệ sinh
+ložnice|bedroom|phòng ngủ
+skříň|wardrobe/cupboard|tủ
+podlaha|floor|sàn nhà
+střecha|roof|mái nhà
+schody|stairs|cầu thang
+výtah|lift/elevator|thang máy
+zámek|chateau/lock|lâu đài/ổ khóa
+metro|metro|tàu điện ngầm
+taxi|taxi|taxi
+loď|ship/boat|tàu thủy/thuyền
+lístek|ticket/note|vé/mẩu giấy
+vstupenka|ticket (entry)|vé vào cửa
+dálnice|motorway|đường cao tốc
+mapa|map|bản đồ
+vstup|entrance/entry|lối vào
+balík|parcel|bưu kiện
+supermarket|supermarket|siêu thị
+lékárna|pharmacy|hiệu thuốc
+nos|nose|mũi
+zub|tooth|răng
+tvář|face/cheek|khuôn mặt/má
+smutek|sadness|nỗi buồn
+lež|lie|lời nói dối
+prosba|request|lời đề nghị/lời nhờ
+formulář|form|mẫu đơn/biểu mẫu
+povolení|permit|giấy phép
+pas|passport|hộ chiếu
+občanský průkaz|ID card|căn cước/chứng minh thư
+vízum|visa|thị thực/visa
+pojištění|insurance|bảo hiểm
+nájem|rent|thuê/tiền thuê
+podpis|signature|chữ ký
+razítko|stamp|con dấu
+poplatek|fee|lệ phí/phí
+útok|attack|cuộc tấn công
+spojení|connection|sự kết nối/liên lạc
+aktivita|activity|hoạt động
+okraj|edge|mép/rìa
+povrch|surface|bề mặt
+délka|length|chiều dài/độ dài
+výška|height|chiều cao
+šířka|width|chiều rộng
+váha|weight/scales|cân nặng/trọng lượng/cái cân
+region|region|vùng/khu vực
+čtvrť|district|khu phố/quận
+Česko|Czechia|Séc/Cộng hòa Séc
+mzda|wage|tiền lương
+výdaj|expense|chi tiêu/khoản chi
+karta|card|thẻ
+hotovost|cash|tiền mặt
+euro|euro|euro
+produkt|product|sản phẩm
+poptávka|demand|nhu cầu
+e-mail|email|thư điện tử/email
+kino|cinema|rạp chiếu phim
+fotbal|football|bóng đá
+kurz|course/rate|khóa học/tỷ giá
+učebnice|textbook|sách giáo khoa
+elektřina|electricity|điện
+proud|current/stream|dòng điện/dòng chảy
+plyn|gas|khí/ga
+benzín|petrol|xăng
+materiál|material|vật liệu
+kov|metal|kim loại
+dřevo|wood|gỗ
+kámen|stone|đá/hòn đá
+sklo|glass|thủy tinh/kính
+přijímat|accept/receive|chấp nhận/tiếp nhận
+odmítat|refuse/reject|từ chối
+nesouhlasit|disagree|không đồng ý
+diskutovat|discuss|thảo luận
+hlasovat|vote|bỏ phiếu
+kritizovat|criticize|chỉ trích/phê bình
+chválit|praise|khen
+děkovat|thank|cảm ơn
+omluvit se|apologize|xin lỗi
+pozdravit|greet|chào
+gratulovat|congratulate|chúc mừng
+blahopřát|congratulate|chúc mừng
+slavit|celebrate|ăn mừng/kỷ niệm
+oslavit|celebrate|ăn mừng
+darovat|donate/give|tặng/hiến
+půjčovat|lend|cho mượn
+ztrácet|lose|mất/đánh mất
+skrýt|hide|giấu
+schovat|hide/keep|giấu/cất
+ukrást|steal|ăn trộm/lấy cắp
+krást|steal|ăn cắp
+stát (cena)|cost|có giá/giá
+investovat|invest|đầu tư
+vlastnit|own|sở hữu
+nakoupit|buy/shop|mua/mua sắm
+dodávat|supply|cung cấp
+vyrábět|produce|sản xuất
+vyrobit|produce/make|sản xuất/làm ra
+pěstovat|grow (plants)|trồng
+sázet|plant/bet|trồng/đặt cược
+sklízet|harvest|thu hoạch
+krmit|feed|cho ăn
+chovat|breed/keep (animals)|nuôi
+lovit|hunt|săn
+zalévat|water|tưới
+uvařit|cook|nấu
+upéct|bake|nướng
+ochránit|protect|bảo vệ
+zachránit|save/rescue|cứu
+ublížit|hurt/harm|làm hại/làm tổn thương
+zranit|injure|làm bị thương
+udeřit|hit|đánh
+bít|beat|đánh
+střílet|shoot|bắn
+vybuchnout|explode|nổ
+havarovat|crash|gặp tai nạn
+spálit|burn|đốt/làm cháy
+hasit|extinguish|dập lửa
+plout|sail/float|trôi/đi thuyền
+couvat|reverse|lùi
+předjet|overtake|vượt
+zabočit|turn|rẽ
+odbočit|turn off|rẽ
+přistát|land|hạ cánh
+vzlétnout|take off|cất cánh
+dorazit|arrive|đến nơi
+zpozdit se|be late|bị trễ/bị chậm
+spěchat|hurry|vội/vội vàng
+pospíšit si|hurry up|nhanh lên
+zastavit se|stop by|ghé qua/dừng lại
+zůstávat|stay|ở lại
+podnikat|do business|kinh doanh
+zaměstnat|employ|tuyển dụng/thuê
+propustit|dismiss/release|sa thải/thả
+vydělávat|earn|kiếm/kiếm tiền
+šetřit|save|tiết kiệm
+utratit|spend|tiêu
+dlužit|owe|nợ
+vypůjčit si|borrow|mượn
+převést|transfer|chuyển
+vložit|insert/deposit|đưa vào/gửi
+otevírat|open|mở
+zavírat|close|đóng
+zamknout|lock|khóa
+odemknout|unlock|mở khóa
+zazvonit|ring|bấm chuông/reo
+klepat|knock|gõ
+uklidit|clean up|dọn dẹp
+vyprat|wash (clothes)|giặt
+umýt|wash|rửa
+koupat se|bathe|tắm
+sprchovat se|shower|tắm vòi sen
+česat|comb|chải
+holit se|shave|cạo râu
+svléknout|take off|cởi
+převléknout se|change clothes|thay đồ
+vyzkoušet|try out|thử
+hodit se|suit/be useful|phù hợp/có ích
+slušet|suit|hợp/vừa
+nenávidět|hate|ghét
+vadit|bother/mind|làm phiền/ngại
+zlobit se|be angry|tức giận/giận
+rozčilovat se|get upset|bực mình
+těšit se|look forward|mong chờ/háo hức
+radovat se|rejoice|vui mừng
+bavit|entertain/amuse|làm vui/giải trí
+nudit se|be bored|chán
+trápit se|worry/suffer|lo lắng/đau khổ
+obávat se|fear/worry|lo ngại/e sợ
+litovat|regret|hối tiếc/tiếc
+stydět se|be ashamed/shy|xấu hổ/ngại
+zamilovat se|fall in love|phải lòng/yêu
+políbit|kiss|hôn
+objímat|hug|ôm
+rozejít se|break up|chia tay
+odpustit|forgive|tha thứ
+důvěřovat|trust|tin tưởng
+pochybovat|doubt|nghi ngờ
+podezírat|suspect|nghi ngờ
+lhát|lie|nói dối
+podvádět|cheat|gian lận/lừa dối
+přesvědčit|persuade|thuyết phục
+doporučit|recommend|giới thiệu/khuyên
+radit|advise|khuyên
+poradit|advise|khuyên/tư vấn
+upozornit|point out/warn|lưu ý/cảnh báo
+připomenout|remind|nhắc nhở
+fandit|cheer/support|cổ vũ
+závodit|race|đua
+lyžovat|ski|trượt tuyết
+bruslit|skate|trượt băng
+plavat|swim|bơi
+procházet se|walk/stroll|đi dạo
+navštěvovat|visit|thăm
+prohlédnout si|look around/view|xem/tham quan
+fotografovat|photograph|chụp ảnh
+poznamenat|note|ghi chú
+zapsat|write down|ghi lại
+přepsat|rewrite|viết lại/chép lại
+opsat|copy|chép
+kontrolovat|check|kiểm tra
+opravovat|repair/correct|sửa
+vyřešit|solve|giải quyết
+spočítat|calculate|tính
+sečíst|add up|cộng
+odečíst|subtract|trừ
+násobit|multiply|nhân
+zaokrouhlit|round|làm tròn
+odhadnout|estimate|ước lượng
+předpovědět|predict|dự đoán
+simulovat|simulate|mô phỏng
+analyzovat|analyze|phân tích
+pozorovat|observe|quan sát
+publikovat|publish|xuất bản/công bố
+vydat|publish/issue|xuất bản/phát hành
+citovat|quote|trích dẫn
+prezentovat|present|trình bày
+přednášet|lecture|giảng/thuyết trình
+obhájit|defend|bảo vệ
+absolvovat|complete/graduate|hoàn thành/tốt nghiệp
+zapsat se|enrol|ghi danh/đăng ký
+přihlásit|register|đăng ký
+zažádat|apply|nộp đơn
+požádat|ask/request|yêu cầu/xin
+vyřídit|arrange/handle|giải quyết/thu xếp
+obdržet|receive|nhận được
+doložit|document/prove|chứng minh/cung cấp giấy tờ
+potvrdit|confirm|xác nhận
+prodloužit|extend|gia hạn/kéo dài
+zkrátit|shorten|rút ngắn
+stěžovat si|complain|phàn nàn/khiếu nại
+reklamovat|return (goods)/claim|khiếu nại/đổi trả
+ztratit se|get lost|bị lạc
+zabloudit|get lost|lạc đường
+začínat|begin|bắt đầu
+přerušit|interrupt|gián đoạn/ngắt lời
+dokončit|complete|hoàn thành
+ukončit|end/terminate|chấm dứt/kết thúc
+zahájit|open/launch|khai mạc/bắt đầu
+spustit|launch/start|khởi động/chạy
+fungovat|work/function|hoạt động/chạy
+selhat|fail|thất bại
+zkazit|spoil|làm hỏng
+pokazit|break/spoil|làm hỏng
+ohřát|heat up|hâm nóng
+vychladnout|cool down|nguội
+zmrazit|freeze|đông lạnh
+roztát|melt|tan
+téct|flow/leak|chảy/rò
+kapat|drip|nhỏ giọt
+lepit|glue|dán
+řezat|cut/saw|cắt/cưa
+stříhat|cut|cắt
+balit|pack/wrap|đóng gói/gói
+rozbalit|unpack/unwrap|mở gói
+vozit|transport|chở
+dovézt|import/bring|nhập khẩu/chở đến
+vyvézt|export|xuất khẩu
+přepravit|transport|vận chuyển
+nehoda|accident|tai nạn
+požár|fire|hỏa hoạn/đám cháy
+oheň|fire|lửa
+kouř|smoke|khói
+vzduch|air|không khí
+půda|soil/land|đất
+písek|sand|cát
+pláž|beach|bãi biển
+břeh|bank/shore|bờ
+vlna|wave/wool|sóng/len
+potok|stream|suối
+údolí|valley|thung lũng
+skála|rock/cliff|vách đá
+jeskyně|cave|hang động
+poušť|desert|sa mạc
+klima|climate|khí hậu
+prostředí|environment|môi trường
+znečištění|pollution|ô nhiễm
+odpad|waste|rác/chất thải
+odpadky|rubbish|rác
+popelnice|bin|thùng rác
+zdroj|source|nguồn
+surovina|raw material|nguyên liệu thô
+uhlí|coal|than
+ropa|crude oil|dầu thô
+olej|oil|dầu
+nafta|diesel|dầu diesel
+elektrárna|power plant|nhà máy điện
+baterie|battery|pin
+kabel|cable|cáp/dây cáp
+zásuvka|socket/drawer|ổ cắm/ngăn kéo
+vypínač|switch|công tắc
+žárovka|light bulb|bóng đèn
+lampa|lamp|đèn
+topení|heating|hệ thống sưởi/lò sưởi
+klimatizace|air conditioning|điều hòa
+pračka|washing machine|máy giặt
+myčka|dishwasher|máy rửa bát
+sporák|stove|bếp
+trouba|oven|lò nướng
+mikrovlnka|microwave|lò vi sóng
+hrnec|pot|nồi
+pánev|pan|chảo
+konvice|kettle|ấm đun nước
+láhev|bottle|chai
+plechovka|can|lon
+krabice|box|hộp
+sáček|small bag|túi nhỏ
+igelitka|plastic bag|túi nilon
+ručník|towel|khăn tắm
+mýdlo|soap|xà phòng
+šampon|shampoo|dầu gội
+kartáček|brush/toothbrush|bàn chải
+hřeben|comb|lược
+zrcadlo|mirror|gương
+umyvadlo|washbasin|bồn rửa mặt
+vana|bathtub|bồn tắm
+sprcha|shower|vòi sen
+gauč|sofa|ghế sofa
+křeslo|armchair|ghế bành
+polštář|pillow|gối
+deka|blanket|chăn
+koberec|carpet|thảm
+záclona|curtain|rèm
+polička|shelf|kệ/giá
+nábytek|furniture|đồ nội thất
+balkon|balcony|ban công
+sklep|cellar|tầng hầm
+garáž|garage|ga ra
+plot|fence|hàng rào
+brána|gate|cổng
+vchod|entrance|lối vào
+chodba|corridor|hành lang
+dvůr|yard/court|sân
+majitel|owner|chủ/chủ sở hữu
+pronajímatel|landlord|chủ nhà cho thuê
+nájemník|tenant|người thuê nhà
+kauce|deposit|tiền đặt cọc
+záloha|deposit/advance/backup|tiền đặt cọc/tạm ứng/sao lưu
+faktura|invoice|hóa đơn
+účtenka|receipt|hóa đơn/biên lai
+sleva|discount|giảm giá
+nákup|purchase/shopping|việc mua sắm/món hàng mua
+pokladna|cash desk|quầy thu ngân
+fronta|queue|hàng/hàng người
+košík|basket|giỏ
+vozík|trolley/cart|xe đẩy
+číšník|waiter|bồi bàn
+jídelní lístek|menu|thực đơn
+spropitné|tip|tiền boa
+dezert|dessert|món tráng miệng
+zákusek|dessert/cake|bánh ngọt
+dort|cake|bánh kem/bánh gato
+koláč|cake/pie|bánh nướng
+sušenka|biscuit|bánh quy
+čokoláda|chocolate|sô cô la
+zmrzlina|ice cream|kem
+salát|salad/lettuce|salad/xà lách
+omáčka|sauce|nước sốt
+knedlík|dumpling|bánh knedlík/bánh hấp
+těstoviny|pasta|mì ống
+nudle|noodles|mì sợi
+mouka|flour|bột mì
+ocet|vinegar|giấm
+pepř|pepper|hạt tiêu
+koření|spices|gia vị
+česnek|garlic|tỏi
+cibule|onion|hành tây
+rajče|tomato|cà chua
+okurka|cucumber|dưa chuột
+mrkev|carrot|cà rốt
+zelí|cabbage|bắp cải
+paprika|pepper (vegetable)|ớt chuông
+houba|mushroom/sponge|nấm/miếng bọt biển
+hruška|pear|lê
+švestka|plum|mận
+třešně|cherry|anh đào
+jahoda|strawberry|dâu tây
+banán|banana|chuối
+pomeranč|orange|cam
+citron|lemon|chanh
+hrozny|grapes|nho
+ořech|nut|hạt/quả hạch
+šunka|ham|giăm bông
+salám|salami|xúc xích salami
+klobása|sausage|xúc xích
+párek|frankfurter|xúc xích nhỏ
+vepřové|pork|thịt lợn/thịt heo
+hovězí|beef|thịt bò
+řízek|schnitzel|thịt tẩm bột chiên
+jogurt|yogurt|sữa chua
+smetana|cream|kem sữa
+džus|juice|nước ép
+limonáda|soft drink/lemonade|nước ngọt
+minerálka|mineral water|nước khoáng
+alkohol|alcohol|rượu/cồn
+hlad|hunger|cơn đói/sự đói
+žízeň|thirst|cơn khát
+chuť|taste/appetite|vị/khẩu vị
+recept|recipe/prescription|công thức/đơn thuốc
+doktor|doctor|bác sĩ
+zubař|dentist|nha sĩ
+ordinace|doctor's office|phòng khám
+sanitka|ambulance|xe cứu thương
+pohotovost|emergency|cấp cứu
+operace|operation|ca phẫu thuật/hoạt động
+injekce|injection|mũi tiêm/tiêm
+očkování|vaccination|tiêm chủng
+tableta|tablet|viên thuốc
+horečka|fever|sốt
+kašel|cough|ho
+rýma|runny nose/cold|sổ mũi/cảm lạnh
+chřipka|flu|cúm
+nachlazení|cold|cảm lạnh
+alergie|allergy|dị ứng
+zranění|injury|chấn thương/vết thương
+rána|wound/blow|vết thương/cú đánh
+krk|neck/throat|cổ/họng
+rameno|shoulder|vai
+záda|back|lưng
+břicho|belly|bụng
+žaludek|stomach|dạ dày
+prst|finger|ngón tay
+koleno|knee|đầu gối
+kůže|skin|da
+kost|bone|xương
+sval|muscle|cơ/cơ bắp
+mozek|brain|não
+plíce|lungs|phổi
+játra|liver|gan
+ret|lip|môi
+brada|chin/beard|cằm/râu
+čelo|forehead|trán
+dech|breath|hơi thở
+dýchat|breathe|thở
+krvácet|bleed|chảy máu
+spánek|sleep|giấc ngủ
+sen|dream|giấc mơ
+snít|dream|mơ
+únava|tiredness|sự mệt mỏi
+stres|stress|căng thẳng
+radnice|town hall|tòa thị chính
+magistrát|city hall|tòa thị chính
+velvyslanectví|embassy|đại sứ quán
+konzulát|consulate|lãnh sự quán
+cizinec|foreigner|người nước ngoài
+pobyt|stay/residence|lưu trú/cư trú
+trvalý|permanent|vĩnh viễn/thường trú
+přechodný|temporary|tạm thời/tạm trú
+doklad|document/ID|giấy tờ
+průkaz|card/pass|thẻ
+rodné číslo|birth number|mã số cá nhân
+žadatel|applicant|người nộp đơn
+úředník|official/clerk|viên chức/nhân viên
+lhůta|time limit|thời hạn
+pokuta|fine|tiền phạt
+vyhláška|decree/regulation|nghị định/quy định
+předpis|regulation|quy định
+nařízení|regulation/order|lệnh/quy định
+soudce|judge|thẩm phán
+advokát|lawyer|luật sư
+trest|punishment|hình phạt
+vězení|prison|nhà tù
+zločin|crime|tội ác
+trestný čin|criminal offence|tội phạm hình sự
+krádež|theft|trộm cắp
+svědek|witness|nhân chứng
+důkaz|evidence/proof|bằng chứng/chứng minh
+spravedlnost|justice|công lý
+svoboda|freedom|tự do
+demokracie|democracy|dân chủ
+opozice|opposition|phe đối lập
+koalice|coalition|liên minh
+senát|senate|thượng viện
+starosta|mayor|thị trưởng
+kandidát|candidate|ứng cử viên
+volič|voter|cử tri
+rozpočet|budget|ngân sách
+dluh|debt|nợ
+úvěr|credit/loan|tín dụng/khoản vay
+půjčka|loan|khoản vay
+hypotéka|mortgage|thế chấp/vay mua nhà
+úrok|interest|lãi suất/tiền lãi
+inflace|inflation|lạm phát
+akcie|share/stock|cổ phiếu
+investice|investment|đầu tư/khoản đầu tư
+zisk|profit|lợi nhuận
+ztráta|loss|thua lỗ/mất mát
+obrat|turnover|doanh thu
+pokles|decline|sự giảm
+nezaměstnanost|unemployment|thất nghiệp
+důchod|pension|lương hưu
+důchodce|pensioner|người về hưu
+dávka|benefit/dose|trợ cấp/liều
+podnikání|business|kinh doanh
+konkurence|competition|cạnh tranh
+dodavatel|supplier|nhà cung cấp
+obchodník|trader|thương nhân/người buôn bán
+pobočka|branch|chi nhánh
+sídlo|seat/headquarters|trụ sở
+oddělení|department|phòng/ban
+personál|staff|nhân sự/nhân viên
+pozice|position|vị trí
+kariéra|career|sự nghiệp
+životopis|CV|sơ yếu lý lịch
+pohovor|interview|phỏng vấn
+výpověď|notice/testimony|thông báo nghỉ việc/lời khai
+dovednost|skill|kỹ năng
+vzdělání|education|giáo dục/học vấn
+titul|title/degree|tước vị/học vị
+diplom|diploma|bằng/văn bằng
+doktorát|doctorate|tiến sĩ
+disertace|dissertation|luận án
+fakulta|faculty|khoa
+katedra|department|bộ môn/khoa
+ústav|institute|viện
+laboratoř|laboratory|phòng thí nghiệm
+přednáška|lecture|bài giảng
+seminář|seminar|hội thảo/xêmina
+semestr|semester|học kỳ
+stipendium|scholarship|học bổng
+grant|grant|tài trợ/khoản tài trợ
+publikace|publication|ấn phẩm/công bố
+časopis|magazine/journal|tạp chí
+recenze|review|bài phê bình/đánh giá
+výpočet|calculation|phép tính/tính toán
+rovnice|equation|phương trình
+vzorec|formula|công thức
+hypotéza|hypothesis|giả thuyết
+fyzika|physics|vật lý
+chemie|chemistry|hóa học
+biologie|biology|sinh học
+matematika|mathematics|toán học
+informatika|computer science|tin học
+software|software|phần mềm
+soubor|file/set|tập tin/bộ
+složka|folder|thư mục
+heslo|password/slogan|mật khẩu/khẩu hiệu
+aplikace|application|ứng dụng
+web|web|trang web
+obrazovka|screen|màn hình
+klávesnice|keyboard|bàn phím
+myš|mouse|chuột
+tiskárna|printer|máy in
+odkaz|link/legacy|đường dẫn/di sản
+příloha|attachment/supplement|tệp đính kèm/phụ lục
+video|video|video
+signál|signal|tín hiệu
+připojení|connection|kết nối
+elektrický|electric|điện
+technický|technical|kỹ thuật
+vědecký|scientific|khoa học
+fyzikální|physical (physics)|vật lý
+chemický|chemical|hóa học
+lidský|human|con người/nhân loại
+přírodní|natural|tự nhiên
+umělý|artificial|nhân tạo
+digitální|digital|kỹ thuật số
+počítačový|computer|máy tính
+finanční|financial|tài chính
+obchodní|commercial/business|thương mại/kinh doanh
+pracovní|work|làm việc/công việc
+úřední|official|chính thức/hành chính
+oficiální|official|chính thức
+právní|legal|pháp lý
+nezákonný|illegal|bất hợp pháp
+vojenský|military|quân sự
+historický|historical|lịch sử
+kulturní|cultural|văn hóa
+hudební|musical|âm nhạc
+sportovní|sports|thể thao
+školní|school|học đường/trường học
+rodinný|family|gia đình
+domácí|home/domestic|nhà/trong nước/nội địa
+zahraniční|foreign|nước ngoài
+cizí|foreign/strange|nước ngoài/lạ
+městský|urban|thành phố/đô thị
+venkovský|rural|nông thôn
+střední|middle/secondary|trung/trung bình
+průměrný|average|trung bình
+maximální|maximum|tối đa
+minimální|minimum|tối thiểu
+vedlejší|side/secondary|phụ
+dočasný|temporary|tạm thời
+stálý|permanent/constant|cố định/thường xuyên
+pravidelný|regular|thường xuyên/đều đặn
+náhodný|random|ngẫu nhiên
+přímý|direct|trực tiếp
+nepřímý|indirect|gián tiếp
+jasný|clear|rõ ràng
+zřejmý|obvious|hiển nhiên
+tajný|secret|bí mật
+úspěšný|successful|thành công
+užitečný|useful|có ích/hữu ích
+zbytečný|useless|vô ích/không cần thiết
+zdravotní|health|y tế/sức khỏe
+lékařský|medical|y khoa/y tế
+bolestivý|painful|đau đớn
+příjemný|pleasant|dễ chịu
+nepříjemný|unpleasant|khó chịu
+pohodlný|comfortable|thoải mái/tiện
+útulný|cosy|ấm cúng
+starobylý|ancient|cổ kính
+přátelský|friendly|thân thiện
+zdvořilý|polite|lịch sự
+upřímný|sincere|chân thành
+poctivý|honest|trung thực
+spravedlivý|fair/just|công bằng
+statečný|brave|dũng cảm
+odvážný|bold|táo bạo/can đảm
+opatrný|careful|cẩn thận
+pečlivý|thorough|cẩn thận/tỉ mỉ
+trpělivý|patient|kiên nhẫn
+zodpovědný|responsible|có trách nhiệm
+nezávislý|independent|độc lập
+samostatný|independent/separate|tự lập/riêng
+zkušený|experienced|có kinh nghiệm
+vzdělaný|educated|có học/có học thức
+zvědavý|curious|tò mò
+překvapený|surprised|ngạc nhiên
+nadšený|enthusiastic|nhiệt tình/hào hứng
+zklamaný|disappointed|thất vọng
+naštvaný|annoyed|tức giận/bực
+ustaraný|worried|lo lắng
+osamělý|lonely|cô đơn
+ženatý|married (man)|đã có vợ
+vdaná|married (woman)|đã có chồng
+rozvedený|divorced|đã ly hôn
+těhotná|pregnant|có thai/mang thai
+dospělý|adult|người lớn/trưởng thành
+obrovský|huge|khổng lồ
+drobný|small/tiny|nhỏ/lặt vặt
+nekonečný|endless|vô tận
+okamžitý|immediate|ngay lập tức
+správně|correctly|đúng
+hezky|nicely|đẹp/hay
+krásně|beautifully|đẹp
+skvělý|great/excellent|tuyệt vời
+výborný|excellent|xuất sắc
+vynikající|outstanding|xuất sắc
+perfektní|perfect|hoàn hảo
+hrozný|terrible|khủng khiếp
+strašný|awful|kinh khủng
+úžasný|amazing|tuyệt vời/kỳ diệu
+báječný|wonderful|tuyệt diệu
+skvěle|great|tuyệt
+výborně|excellently|xuất sắc/tuyệt
+strašně|terribly|kinh khủng/vô cùng
+hrozně|terribly|kinh khủng/cực kỳ
+celkem|in total/quite|tổng cộng/khá
+zhruba|roughly|khoảng/đại khái
+přibližně|approximately|xấp xỉ/khoảng
+minimálně|at least|ít nhất/tối thiểu
+maximálně|at most|tối đa
+alespoň|at least|ít nhất
+aspoň|at least|ít nhất
+pouze|only|chỉ
+jenom|only|chỉ
+zvlášť|separately/especially|riêng/đặc biệt
+společně|together|cùng nhau
+osobně|personally|cá nhân/trực tiếp
+přímo|directly|trực tiếp
+okamžitě|immediately|ngay lập tức
+postupně|gradually|dần dần
+nedávno|recently|gần đây
+dávno|long ago|lâu rồi
+zatím|so far/meanwhile|cho đến nay/tạm thời
+mezitím|meanwhile|trong lúc đó
+předtím|before|trước đó
+poté|afterwards|sau đó
+včas|in time|đúng giờ/kịp
+pozdě|late|muộn/trễ
+brzo|soon/early|sớm
+denně|daily|hằng ngày
+ročně|annually|hằng năm
+měsíčně|monthly|hằng tháng
+týdně|weekly|hằng tuần
+navíc|moreover|thêm vào đó/hơn nữa
+naopak|on the contrary|ngược lại
+podobně|similarly|tương tự
+jinde|elsewhere|ở nơi khác
+všude|everywhere|khắp nơi
+doma|at home|ở nhà
+domů|home|về nhà
+ven|out|ra ngoài
+dovnitř|inside|vào trong
+nahoru|up|lên
+dolů|down|xuống
+dopředu|forward|về phía trước
+dozadu|backwards|về phía sau
+pryč|away|đi khỏi/mất
+sice|admittedly|tuy rằng/mặc dù
+nicméně|nevertheless|tuy nhiên
+avšak|however|tuy nhiên
+tudíž|therefore|do đó
+neboť|for/because|vì/bởi vì
+jelikož|since/as|vì/bởi vì
+ačkoli|although|mặc dù
+přičemž|while/whereby|trong khi đó
+čili|that is/or|tức là/hay là
+umožnit|enable/allow|cho phép/tạo điều kiện
+uvádět|state/cite|nêu/đưa ra
+vyplývat|follow/result|suy ra/xuất phát từ
+vyjádřit|express|bày tỏ/biểu đạt
+projevit|show/manifest|thể hiện
+přispět|contribute|đóng góp
+zúčastnit se|take part|tham gia
+účastnit se|participate|tham gia
+podílet se|participate/share|tham gia/góp phần
+odehrávat se|take place|diễn ra
+vyžadovat|require|yêu cầu/đòi hỏi
+požadovat|demand|đòi hỏi/yêu cầu
+stanovit|set/determine|quy định/xác định
+určit|determine|xác định/quyết định
+označit|mark/label|đánh dấu/gọi là
+nazývat|call/name|gọi là
+pojmenovat|name|đặt tên
+zahrnout|include|bao gồm
+zahrnovat|include|bao gồm
+vyloučit|exclude|loại trừ
+omezit|limit|hạn chế
+rozšířit|expand|mở rộng
+zvětšit|enlarge|phóng to/làm lớn
+zmenšit|shrink/reduce|thu nhỏ/giảm
+posílit|strengthen|củng cố/tăng cường
+oslabit|weaken|làm suy yếu
+udržet|maintain/keep|duy trì/giữ
+udržovat|maintain|duy trì/bảo dưỡng
+zachovat|preserve|giữ gìn/bảo tồn
+obnovit|restore/renew|khôi phục/đổi mới
+zavést|introduce|áp dụng/đưa vào
+podpořit|support|ủng hộ/hỗ trợ
+odsoudit|condemn/sentence|lên án/kết án
+obvinit|accuse|buộc tội
+zatknout|arrest|bắt giữ
+vyšetřovat|investigate|điều tra
+vyhlásit|announce/declare|công bố/tuyên bố
+zveřejnit|make public|công bố/công khai
+prozradit|reveal|tiết lộ
+skrývat|hide|che giấu
+odhalit|reveal/uncover|phát hiện/vạch trần
+popřít|deny|phủ nhận
+ujistit|assure|đảm bảo/cam đoan
+zdůraznit|emphasize|nhấn mạnh
+reagovat|react|phản ứng
+komunikovat|communicate|giao tiếp
+spolupracovat|cooperate|hợp tác
+vyjednávat|negotiate|đàm phán
+dohodnout se|agree|thỏa thuận/thống nhất
+hádat se|argue|cãi nhau
+hádat|guess|đoán
+uhodnout|guess right|đoán đúng
+vyhýbat se|avoid|tránh
+vyhnout se|avoid|tránh
+čelit|face|đối mặt
+trpět|suffer|chịu đựng/đau khổ
+snášet|bear/tolerate|chịu đựng
+zvládnout|manage/cope|xoay xở/làm được
+přežít|survive|sống sót
+zažít|experience|trải qua
+prožít|live through/spend|trải qua/sống
+strávit|spend (time)/digest|dành/tiêu hóa
+trávit|spend (time)|dành/trải qua
+vydržet|endure/last|chịu đựng/trụ được
+zvyknout si|get used to|quen với
+přizpůsobit se|adapt|thích nghi
+usadit se|settle|định cư/ổn định
+emigrovat|emigrate|di cư
+zvednout|lift/pick up|nhấc/nâng
+pustit|let go/turn on|thả/bật
+nalít|pour|rót
+míchat|mix/stir|trộn/khuấy
+sníst|eat up|ăn hết
+vypít|drink up|uống hết
+snídat|have breakfast|ăn sáng
+obědvat|have lunch|ăn trưa
+večeřet|have dinner|ăn tối
+uvidět|see|nhìn thấy
+uslyšet|hear|nghe thấy
+poslechnout|obey/listen|nghe lời/nghe
+ozvat se|get in touch/respond|liên lạc/lên tiếng
+telefonovat|phone|gọi điện
+rozdíl|difference|sự khác biệt
+souvislost|connection/context|mối liên hệ/bối cảnh
+podstata|essence|bản chất
+základ|basis/foundation|cơ sở/nền tảng
+princip|principle|nguyên tắc/nguyên lý
+zásada|principle|nguyên tắc
+pojem|concept|khái niệm
+představa|idea/notion|ý niệm/hình dung
+dojem|impression|ấn tượng
+zážitek|experience|trải nghiệm
+vzpomínka|memory|kỷ niệm/ký ức
+paměť|memory|trí nhớ/bộ nhớ
+rozum|reason/mind|lý trí
+mysl|mind|tâm trí
+nálada|mood|tâm trạng
+emoce|emotion|cảm xúc
+vášeň|passion|đam mê
+touha|desire|khát vọng/mong muốn
+přání|wish|điều ước/lời chúc
+úspěch|success|thành công/sự thành công
+neúspěch|failure|thất bại
+prohra|defeat|thất bại/trận thua
+vítězství|victory|chiến thắng
+vítěz|winner|người chiến thắng
+soutěž|competition|cuộc thi
+mistrovství|championship|giải vô địch
+utkání|match|trận đấu
+gól|goal|bàn thắng
+hřiště|playground/pitch|sân chơi/sân bóng
+stadion|stadium|sân vận động
+běh|run/running|chạy/sự chạy
+míč|ball|quả bóng
+hokej|hockey|khúc côn cầu
+tenis|tennis|quần vợt
+turistika|hiking|đi bộ đường dài/du lịch
+výlet|trip|chuyến đi chơi
+zájezd|tour|chuyến du lịch
+cestovní kancelář|travel agency|công ty du lịch
+hotel|hotel|khách sạn
+ubytování|accommodation|chỗ ở
+recepce|reception|lễ tân/quầy lễ tân
+turista|tourist|khách du lịch
+průvodce|guide|hướng dẫn viên/sách hướng dẫn
+památka|monument/sight|di tích
+muzeum|museum|bảo tàng
+galerie|gallery|phòng tranh
+výstava|exhibition|triển lãm
+koncert|concert|buổi hòa nhạc
+festival|festival|lễ hội
+tradice|tradition|truyền thống
+zvyk|custom/habit|phong tục/thói quen
+náboženství|religion|tôn giáo
+církev|church (institution)|giáo hội
+kříž|cross|thánh giá/chữ thập
+Velikonoce|Easter|lễ Phục sinh
+Silvestr|New Year's Eve|đêm giao thừa
+Nový rok|New Year|năm mới
+osoba|person|người/cá nhân
+jednotlivec|individual|cá nhân
+populace|population|dân số
+obyvatelstvo|population|dân cư
+generace|generation|thế hệ
+mládež|youth|thanh niên
+senior|senior|người cao tuổi
+miminko|baby|em bé
+vnuk|grandson|cháu trai
+vnučka|granddaughter|cháu gái
+teta|aunt|cô/dì
+strýc|uncle|chú/bác
+bratranec|cousin (male)|anh em họ
+sestřenice|cousin (female)|chị em họ
+partner|partner|bạn đời/đối tác
+přítelkyně|girlfriend/female friend|bạn gái
+máma|mum|mẹ
+táta|dad|bố
+nevěsta|bride|cô dâu
+ženich|groom|chú rể
+Německo|Germany|Đức
+Rakousko|Austria|Áo
+Slovensko|Slovakia|Slovakia
+Polsko|Poland|Ba Lan
+Francie|France|Pháp
+Belgie|Belgium|Bỉ
+Itálie|Italy|Ý
+Španělsko|Spain|Tây Ban Nha
+Anglie|England|Anh
+Rusko|Russia|Nga
+Ukrajina|Ukraine|Ukraina
+Amerika|America|Mỹ/châu Mỹ
+Čína|China|Trung Quốc
+Japonsko|Japan|Nhật Bản
+Vietnam|Vietnam|Việt Nam
+Asie|Asia|châu Á
+Afrika|Africa|châu Phi
+Čech|Czech (person)|người Séc
+Němec|German (person)|người Đức
+Vietnamec|Vietnamese (person)|người Việt
+německý|German|tiếng Đức/thuộc Đức
+francouzský|French|tiếng Pháp/thuộc Pháp
+ruský|Russian|tiếng Nga/thuộc Nga
+slovenský|Slovak|tiếng Slovakia/thuộc Slovakia
+americký|American|thuộc Mỹ
+čeština|Czech language|tiếng Séc
+angličtina|English language|tiếng Anh
+vietnamština|Vietnamese language|tiếng Việt
+němčina|German language|tiếng Đức
+francouzština|French language|tiếng Pháp
+předmět|object/subject|đồ vật/môn học
+nástroj|tool/instrument|công cụ/nhạc cụ
+zbraň|weapon|vũ khí
+peněženka|wallet|ví
+mince|coin|đồng xu
+bankovka|banknote|tiền giấy
+obálka|envelope|phong bì
+známka|stamp/grade|tem/điểm
+pero|pen|bút
+tužka|pencil|bút chì
+sešit|notebook|vở
+nůžky|scissors|kéo
+provaz|rope|dây thừng
+řetěz|chain|xích/dây chuyền
+hračka|toy|đồ chơi
+kočárek|pram|xe đẩy em bé
+motorka|motorbike|xe máy
+kamion|truck|xe tải
+benzinka|petrol station|trạm xăng
+parkoviště|car park|bãi đỗ xe
+křižovatka|crossroads|ngã tư
+semafor|traffic light|đèn giao thông
+chodník|pavement|vỉa hè
+přechod|crossing|lối qua đường
+nástupiště|platform|sân ga
+kolej|track/dormitory|đường ray/ký túc xá
+jízdní řád|timetable|lịch trình tàu xe
+spoj|connection|chuyến/kết nối
+zpoždění|delay|sự chậm trễ
+odjezd|departure|giờ khởi hành/sự khởi hành
+příjezd|arrival|giờ đến/sự đến
+let|flight|chuyến bay
+zavazadlo|luggage|hành lý
+celnice|customs|hải quan
+sídliště|housing estate|khu chung cư
+panelák|block of flats|nhà tập thể
+nemovitost|property|bất động sản
+pozemek|plot of land|mảnh đất
+stavba|construction|công trình/xây dựng
+továrna|factory|nhà máy
+sklad|warehouse|kho
+dílna|workshop|xưởng
+obchodní centrum|shopping centre|trung tâm mua sắm
+tržnice|market hall|chợ
+pekárna|bakery|tiệm bánh
+knihovna|library|thư viện
+školka|kindergarten|trường mẫu giáo
+gymnázium|grammar school|trường trung học
+hřbitov|cemetery|nghĩa trang
+věž|tower|tháp
+palác|palace|cung điện
+pomník|monument|tượng đài
+odpoledne|afternoon|buổi chiều
+dopoledne|morning (before noon)|buổi sáng
+poledne|noon|buổi trưa
+půlnoc|midnight|nửa đêm
+desetiletí|decade|thập kỷ
+průběh|course|diễn biến/quá trình
+výročí|anniversary|ngày kỷ niệm
+kalendář|calendar|lịch
+určitý|certain/specific|nhất định/cụ thể
+konkrétní|concrete/specific|cụ thể
+obecný|general|chung/tổng quát
+speciální|special|đặc biệt
+typický|typical|điển hình
+charakteristický|characteristic|đặc trưng
+zásadní|fundamental|cơ bản/quan trọng
+klíčový|key|then chốt/chủ chốt
+podstatný|essential|thiết yếu/quan trọng
+významný|significant|quan trọng/đáng kể
+kritický|critical|nghiêm trọng/phê phán
+aktuální|current|hiện tại/thời sự
+nedávný|recent|gần đây
+tehdejší|of that time|lúc bấy giờ
+bývalý|former|cũ/cựu
+původní|original|ban đầu/nguyên bản
+jednotlivý|individual|riêng lẻ/từng
+úplný|complete|đầy đủ/hoàn toàn
+částečný|partial|một phần
+dostatečný|sufficient|đủ
+rostoucí|growing|ngày càng tăng
+tvrdý|hard|cứng
+měkký|soft|mềm
+hladký|smooth|nhẵn/trơn
+ostrý|sharp|sắc/nhọn
+pevný|firm/solid|chắc/cứng
+křehký|fragile|giòn/mỏng manh
+kulatý|round|tròn
+rovný|straight/flat|thẳng/phẳng
+kvalitní|high-quality|chất lượng tốt
+luxusní|luxury|sang trọng
+praktický|practical|thực tế/tiện dụng
+teoretický|theoretical|lý thuyết
+ochotný|willing|sẵn lòng
+povinný|compulsory|bắt buộc
+dobrovolný|voluntary|tự nguyện
+zakázaný|forbidden|bị cấm
+povolený|allowed|được phép
+platný|valid|có hiệu lực
+neplatný|invalid|không hợp lệ
+obsazený|occupied/busy|có người/bận
+zaneprázdněný|busy|bận rộn
+ztracený|lost|bị mất/lạc
+zlomený|broken|gãy/vỡ
+rozbitý|broken|hỏng/vỡ
+použitý|used|đã qua sử dụng
+rušný|busy/lively|nhộn nhịp/ồn ào
+hlučný|noisy|ồn ào
+zamračený|cloudy|nhiều mây/cau có
+slunečný|sunny|nắng
+deštivý|rainy|mưa nhiều
+větrný|windy|nhiều gió
+mrazivý|frosty|giá lạnh
+vysoko|high|cao
+nízko|low|thấp
+tiše|quietly|lặng lẽ/nhỏ tiếng
+nahlas|aloud|to/thành tiếng
+potichu|quietly|khẽ/nhỏ
+opatrně|carefully|cẩn thận
+pečlivě|carefully|cẩn thận/kỹ
+snadno|easily|dễ dàng
+těžko|hardly/with difficulty|khó/khó khăn
+jednoduše|simply|đơn giản
+lehce|lightly/easily|nhẹ nhàng/dễ dàng
+náhodou|by chance|tình cờ
+schválně|on purpose|cố ý
+omylem|by mistake|nhầm/vô tình
+pravděpodobně|probably|có lẽ/có khả năng
+nejspíš|most likely|rất có thể
+rozhodně|definitely|chắc chắn/nhất định
+vždycky|always|luôn luôn/luôn
+pokaždé|every time|mỗi lần
+zpravidla|as a rule|thường lệ/theo lệ
+běžně|commonly|thường/phổ biến
+výjimečně|exceptionally|ngoại lệ/hiếm khi
+zřídka|rarely|hiếm khi
+málokdy|seldom|hiếm khi
+dodnes|to this day|cho đến ngày nay
+tehdy|then/at that time|khi đó/lúc ấy
+dneska|today|hôm nay
+opustit|leave/abandon|rời bỏ
+následovat|follow|theo sau/tiếp theo
+předcházet|precede/prevent|đi trước/phòng ngừa
+hledět|gaze|nhìn chăm chú
+dotknout se|touch|chạm vào
+sahat|reach/touch|với/chạm
+stisknout|press|nhấn/ấn
+mačkat|press/squeeze|ấn/bóp
+kliknout|click|nhấp chuột/bấm
+vyhledat|search/look up|tra cứu/tìm kiếm
+uložit|save/store|lưu/cất
+nainstalovat|install|cài đặt
+aktualizovat|update|cập nhật
+připojit|connect/attach|kết nối/đính kèm
+odpojit|disconnect|ngắt kết nối
+nabíjet|charge|sạc
+nabít|charge|sạc
+zaregistrovat se|register|đăng ký
+vyplatit|pay out|chi trả
+vyplatit se|pay off/be worth it|đáng/có lợi
+zdražit|raise the price|tăng giá
+zlevnit|reduce the price|giảm giá
+stoupnout|rise|tăng/bước lên
+klesnout|fall/drop|giảm/hạ xuống
+klesat|decrease|giảm
+kolísat|fluctuate|dao động
+překročit|exceed/cross|vượt quá/vượt qua
+dosahovat|reach|đạt tới
+činit|amount to/make|lên tới/làm
+obnášet|involve|bao gồm/đòi hỏi
+znít|sound|nghe có vẻ/vang lên
+zahrát|play|chơi
+trefit|hit (a target)|trúng
+minout|miss/pass|trượt/đi qua
+uplynout|pass (time)|trôi qua
+vypršet|expire|hết hạn
+odložit|postpone/put down|hoãn/đặt xuống
+posunout|move/shift|dời/dịch chuyển
+přesunout|move|chuyển/dời
+přestěhovat se|move house|chuyển nhà
+přenést|transfer/carry over|chuyển/mang qua
+odeslat|send off|gửi đi
+dostavit se|turn up|có mặt
+zmeškat|miss|lỡ/trễ
+stihnout|make it/catch|kịp
+vyrazit|set off|khởi hành/xuất phát
+vydat se|set out|lên đường
+dojet|get to|đến nơi
+projet|pass through|đi qua
+vyjet|drive out/set off|lái ra/khởi hành
+přejet|run over/cross|cán/đi qua
+zabrzdit|brake|phanh
+zrychlit|speed up|tăng tốc
+zpomalit|slow down|giảm tốc/chậm lại
+zaparkovat|park|đỗ xe
+natankovat|refuel|đổ xăng
+ujet|ride away/miss|đi mất/lỡ
+utírat|wipe|lau
+vysávat|vacuum|hút bụi
+zametat|sweep|quét
+prostřít|lay (the table)|dọn bàn
+obsluhovat|serve|phục vụ
+účtovat|charge|tính tiền
+nakládat|load|chất hàng
+vykládat|unload/explain|dỡ hàng/giải thích
+spravit|fix|sửa
+chápat|understand|hiểu
+vnímat|perceive|cảm nhận/nhận thức
+uvažovat|consider|cân nhắc/suy xét
+zvažovat|weigh up|cân nhắc
+rozmyslet si|think over|suy nghĩ kỹ
+mýlit se|be mistaken|nhầm/sai
+plést se|be wrong/mix up|nhầm lẫn
+splést si|confuse|nhầm lẫn
+tušit|suspect/have an idea|đoán/linh cảm
+prosit|ask/beg|xin/van nài
+poprosit|ask (politely)|nhờ/xin
+omlouvat se|apologize|xin lỗi
+vysvětlovat|explain|giải thích
+procvičovat|practise|luyện tập
+zopakovat|repeat|lặp lại/ôn lại
+vyslovovat|pronounce|phát âm
+vyslovit|pronounce/express|phát âm/bày tỏ
+překládat|translate|dịch
+tlumočit|interpret|phiên dịch
+výslovnost|pronunciation|cách phát âm
+gramatika|grammar|ngữ pháp
+slovník|dictionary|từ điển
+slovíčko|word (vocabulary)|từ vựng/từ
+překlad|translation|bản dịch
+tlumočník|interpreter|phiên dịch viên
+překladatel|translator|người dịch
+pád|case/fall|cách (ngữ pháp)/sự ngã
+sloveso|verb|động từ
+podstatné jméno|noun|danh từ
+přídavné jméno|adjective|tính từ
+poznámka|note|ghi chú
+zkratka|abbreviation/shortcut|từ viết tắt/đường tắt
+nadpis|heading|tiêu đề
+název|name/title|tên/tên gọi
+obal|cover/package|vỏ bọc/bao bì
+značka|brand/sign/mark|thương hiệu/biển báo/dấu
+nápis|sign/inscription|dòng chữ/biển
+reklama|advertisement|quảng cáo
+plakát|poster|áp phích
+leták|leaflet|tờ rơi
+oznámení|announcement|thông báo
+upozornění|notice/warning|lưu ý/cảnh báo
+varování|warning|cảnh báo
+pozor|attention/caution|chú ý/cẩn thận
+zákaz|ban|lệnh cấm
+výjimka|exception|ngoại lệ
+postup|procedure|quy trình/cách làm
+návod|instructions/guide|hướng dẫn
+pokyn|instruction|chỉ dẫn
+tip|tip|mẹo/gợi ý
+varianta|variant/option|phương án/biến thể
+alternativa|alternative|lựa chọn khác
+volba|choice/election|sự lựa chọn/bầu cử
+výběr|selection/choice|sự lựa chọn/tuyển chọn
+objednávka|order|đơn đặt hàng
+rezervace|reservation|đặt chỗ
+potvrzení|confirmation|xác nhận/giấy xác nhận
+zrušení|cancellation|hủy bỏ
+oprava|repair/correction|sửa chữa/chỉnh sửa
+údržba|maintenance|bảo trì
+porucha|breakdown/fault|hỏng hóc/sự cố
+závada|defect|lỗi/khuyết tật
+škoda|damage/pity|thiệt hại/tiếc
+pojišťovna|insurance company|công ty bảo hiểm
+náhrada|compensation/replacement|bồi thường/thay thế
+záruka|guarantee/warranty|bảo hành/bảo đảm
+reklamace|complaint/claim|khiếu nại/đổi trả
+veřejnost|public|công chúng
+média|media|truyền thông
+televize|television|truyền hình/tivi
+rozhlas|radio broadcasting|đài phát thanh
+rádio|radio|radio/đài
+zpravodajství|news coverage|tin tức/thời sự
+novinky|news|tin mới
+tisk|press/print|báo chí/in ấn
+redakce|editorial office|tòa soạn
+reportáž|report|phóng sự
+komentář|commentary|bình luận
+prohlášení|statement|tuyên bố
+tisková konference|press conference|họp báo
+mluvčí|spokesperson|người phát ngôn
+průzkum|survey|khảo sát
+anketa|poll|cuộc thăm dò
+statistika|statistics|thống kê
+podíl|share/quotient|tỷ lệ/phần/thương số
+průměr|average/diameter|trung bình/đường kính
+nárůst|increase|sự tăng
+snížení|reduction|sự giảm
+zvýšení|increase|sự tăng
+reforma|reform|cải cách
+novela|amendment/novella|sửa đổi luật/truyện vừa
+ústava|constitution|hiến pháp
+samospráva|self-government|tự quản
+instituce|institution|tổ chức/cơ quan
+agentura|agency|cơ quan/đại lý
+nadace|foundation|quỹ
+sdružení|association|hiệp hội
+spolek|club/association|hội/câu lạc bộ
+klub|club|câu lạc bộ
+odbory|trade unions|công đoàn
+stávka|strike|đình công
+protest|protest|biểu tình/phản đối
+demonstrace|demonstration|cuộc biểu tình
+spor|dispute|tranh chấp
+unie|union|liên minh
+Evropská unie|European Union|Liên minh châu Âu
+premiér|prime minister|thủ tướng
+senátor|senator|thượng nghị sĩ
+diplomat|diplomat|nhà ngoại giao
+velvyslanec|ambassador|đại sứ
+uprchlík|refugee|người tị nạn
+migrace|migration|di cư
+menšina|minority|thiểu số
+většina|majority|đa số
+rovnost|equality|bình đẳng
+lidská práva|human rights|nhân quyền
+diskriminace|discrimination|phân biệt đối xử
+chudoba|poverty|nghèo đói
+bohatství|wealth|sự giàu có
+epidemie|epidemic|dịch bệnh
+pandemie|pandemic|đại dịch
+virus|virus|vi rút
+zdravotnictví|health care|y tế/ngành y tế
+školství|education system|ngành giáo dục
+energetika|energy sector|ngành năng lượng
+zemědělství|agriculture|nông nghiệp
+stavebnictví|construction industry|ngành xây dựng
+cestovní ruch|tourism|du lịch
+experiment|experiment|thí nghiệm
+měření|measurement|phép đo/sự đo
+pozorování|observation|quan sát
+simulace|simulation|mô phỏng
+algoritmus|algorithm|thuật toán
+kód|code|mã
+databáze|database|cơ sở dữ liệu
+neuronová síť|neural network|mạng nơ-ron
+umělá inteligence|artificial intelligence|trí tuệ nhân tạo
+strojové učení|machine learning|học máy
+superpočítač|supercomputer|siêu máy tính
+procesor|processor|bộ xử lý
+disk|disk|ổ đĩa
+server|server|máy chủ
+výkon|performance/power|hiệu suất/công suất
+rychlost|speed|tốc độ
+přesnost|accuracy|độ chính xác
+odchylka|deviation|độ lệch
+veličina|quantity|đại lượng
+jednotka|unit|đơn vị
+rozměr|dimension|kích thước/chiều
+vrstva|layer|lớp
+krystal|crystal|tinh thể
+mřížka|lattice/grid|mạng tinh thể/lưới
+atom|atom|nguyên tử
+molekula|molecule|phân tử
+elektron|electron|electron
+vazba|bond/binding|liên kết
+teplo|heat|nhiệt/hơi ấm
+tlak|pressure|áp suất/áp lực
+napětí|voltage/tension|điện áp/căng thẳng
+odpor|resistance|điện trở/sự phản đối
+vodivost|conductivity|độ dẫn điện
+vzorek|sample|mẫu
+sloučenina|compound|hợp chất
+kapalina|liquid|chất lỏng
+záření|radiation|bức xạ
+frekvence|frequency|tần số
+kmitání|oscillation/vibration|dao động
+rovnováha|equilibrium/balance|cân bằng
+symetrie|symmetry|đối xứng
+úhel|angle|góc
+vzdálenost|distance|khoảng cách
+plocha|area/surface|diện tích/bề mặt
+objem|volume|thể tích
+hmotnost|mass|khối lượng
+hustota|density|mật độ
+osa|axis|trục
+bod|point|điểm
+čára|line|đường/vạch
+křivka|curve|đường cong
+kruh|circle|vòng tròn
+čtverec|square|hình vuông
+trojúhelník|triangle|tam giác
+obdélník|rectangle|hình chữ nhật
+číslice|digit|chữ số
+součet|sum|tổng
+součin|product|tích
+zlomek|fraction|phân số
+následující|following|tiếp theo/sau đây
+předchozí|previous|trước/trước đó
+uvedený|mentioned|nêu trên/đã nêu
+příslušný|relevant/respective|tương ứng/có thẩm quyền
+odpovídající|corresponding|tương ứng/phù hợp
+jednotný|uniform/unified|thống nhất
+společenský|social|xã hội
+ekologický|ecological|sinh thái
+energetický|energy|năng lượng
+průmyslový|industrial|công nghiệp
+zemědělský|agricultural|nông nghiệp
+stavební|building|xây dựng
+dopravní|transport|giao thông
+hospodářský|economic|kinh tế
+tržní|market|thị trường
+daňový|tax|thuế
+bankovní|bank|ngân hàng
+peněžní|monetary|tiền tệ
+trestní|criminal|hình sự
+soudní|judicial|tư pháp/tòa án
+policejní|police|cảnh sát
+vládní|government|chính phủ
+parlamentní|parliamentary|nghị viện/quốc hội
+volební|electoral|bầu cử
+demokratický|democratic|dân chủ
+náboženský|religious|tôn giáo
+duchovní|spiritual|tinh thần/tâm linh
+tělesný|bodily/physical|thể chất/cơ thể
+duševní|mental|tinh thần/tâm lý
+psychický|psychological|tâm lý
+fyzický|physical|thể chất/vật lý
+mužský|male|nam/đàn ông
+ženský|female|nữ/phụ nữ
+dětský|children's|trẻ em
+studentský|student|sinh viên
+univerzitní|university|đại học
+akademický|academic|học thuật
+odborný|expert/professional|chuyên môn
+profesionální|professional|chuyên nghiệp
+amatérský|amateur|nghiệp dư
+výzkumný|research|nghiên cứu
+experimentální|experimental|thực nghiệm
+numerický|numerical|số/số học
+matematický|mathematical|toán học
+strojový|machine|máy móc
+elektronický|electronic|điện tử
+mobilní|mobile|di động
+online|online|trực tuyến
+virtuální|virtual|ảo
+reálný|real|thực
+přibližný|approximate|xấp xỉ
+chybný|wrong/faulty|sai/lỗi
+nesprávný|incorrect|không đúng
+pravdivý|true|đúng sự thật
+falešný|false/fake|giả
+nevhodný|unsuitable|không phù hợp
+nejlepší|best|tốt nhất
+nejhorší|worst|tệ nhất
+větší|bigger|lớn hơn
+menší|smaller|nhỏ hơn
+lepší|better|tốt hơn
+horší|worse|tệ hơn
+starší|older|già hơn/lớn tuổi hơn
+mladší|younger|trẻ hơn
+vyšší|higher|cao hơn
+nižší|lower|thấp hơn
+nejvíce|most|nhiều nhất
+nejméně|least|ít nhất
+méně|less|ít hơn
+víc|more|hơn/nhiều hơn
+dál|further/on|xa hơn/tiếp
+dále|further|thêm nữa/tiếp theo
+zpátky|back|trở lại
+opět|again|lại/một lần nữa
+teprve|only/not until|mới/chỉ mới
+již|already|đã/rồi
+dosud|so far/still|cho đến nay
+doposud|so far|cho đến nay
+nadále|still/further|tiếp tục/vẫn
+stejně|anyway/equally|dù sao/như nhau
+prakticky|practically|thực tế/hầu như
+teoreticky|theoretically|về lý thuyết
+údajně|allegedly|được cho là
+oficiálně|officially|chính thức
+veřejně|publicly|công khai
+tajně|secretly|bí mật
+vzájemně|mutually|lẫn nhau
+navzájem|each other|lẫn nhau
+částečně|partly|một phần
+naprosto|absolutely|hoàn toàn
+absolutně|absolutely|tuyệt đối
+relativně|relatively|tương đối
+výrazně|significantly|đáng kể/rõ rệt
+značně|considerably|đáng kể
+mírně|slightly|nhẹ/hơi
+trošku|a bit|một chút
+vcelku|on the whole|nhìn chung
+obecně|generally|nói chung
+konkrétně|specifically|cụ thể
+dobré ráno|good morning|chào buổi sáng
+dobrý večer|good evening|chào buổi tối
+nashle|bye|tạm biệt
+čau|hi/bye|chào
+není zač|you're welcome|không có gì
+pardon|sorry/pardon|xin lỗi
+jo|yeah|ừ/vâng
+v pořádku|all right|ổn/được rồi
+pečivo|bakery products|bánh mì các loại
+houska|bread roll|bánh mì tròn
+cukrárna|confectioner's|tiệm bánh ngọt
+potraviny|groceries|thực phẩm/cửa hàng thực phẩm
+strava|diet/food|chế độ ăn/thức ăn
+vitamín|vitamin|vitamin
+tuk|fat|chất béo/mỡ
+med|honey|mật ong
+džem|jam|mứt
+hořčice|mustard|mù tạt
+kaše|porridge/mash|cháo/món nghiền
+hranolky|fries|khoai tây chiên
+bonbon|sweet/candy|kẹo
+guláš|goulash|món gulas
+vývar|broth|nước dùng
+kachna|duck|vịt
+husa|goose|ngỗng
+losos|salmon|cá hồi
+kapr|carp|cá chép
+krevety|prawns|tôm
+ubrousek|napkin|khăn ăn
+tričko|T-shirt|áo phông/áo thun
+svetr|sweater|áo len
+bunda|jacket|áo khoác
+sukně|skirt|váy
+džíny|jeans|quần bò/quần jean
+ponožky|socks|tất/vớ
+rukavice|gloves|găng tay
+šála|scarf|khăn quàng
+pásek|belt|thắt lưng
+kapsa|pocket|túi (áo, quần)
+knoflík|button|cúc áo/nút
+prsten|ring|nhẫn
+náušnice|earrings|bông tai
+kabelka|handbag|túi xách
+batoh|backpack|ba lô
+pyžamo|pyjamas|đồ ngủ
+plavky|swimsuit|đồ bơi
+opice|monkey|khỉ
+medvěd|bear|gấu
+vlk|wolf|sói
+liška|fox|cáo
+zajíc|hare|thỏ rừng
+králík|rabbit|thỏ
+ovce|sheep|cừu
+koza|goat|dê
+slepice|hen|gà mái
+kohout|rooster|gà trống
+hmyz|insect|côn trùng
+moucha|fly|ruồi
+komár|mosquito|muỗi
+včela|bee|ong
+pavouk|spider|nhện
+had|snake|rắn
+žába|frog|ếch
+slon|elephant|voi
+lev|lion|sư tử
+tygr|tiger|hổ
+list|leaf/sheet|lá/tờ
+větev|branch|cành
+kořen|root|rễ
+semeno|seed|hạt giống
+růže|rose|hoa hồng
+dub|oak|cây sồi
+borovice|pine|cây thông
+smrk|spruce|cây vân sam
+bříza|birch|cây bạch dương
+chystat se|be about to/prepare|chuẩn bị/sắp
+mínit|mean/intend|có ý/định
+předstírat|pretend|giả vờ
+najmout|hire|thuê
+pronajímat|rent out|cho thuê
+nastěhovat se|move in|dọn vào
+vystěhovat se|move out|dọn ra
+zařídit|arrange/furnish|thu xếp/trang bị
+vybavit|equip|trang bị
+sehnat|get hold of|kiếm được
+shánět|look for|tìm kiếm
+ničit|destroy|phá hoại
+poškodit|damage|làm hư hại
+zlomit|break|bẻ gãy/làm gãy
+trhat|tear/pick|xé/hái
+kopat|kick/dig|đá/đào
+házet|throw|ném
+točit|turn/film|quay/quay phim
+natáčet|film|quay phim
+vysílat|broadcast|phát sóng
+nahrávat|record|ghi âm
+srovnávat|compare|so sánh
+rozlišovat|distinguish|phân biệt
+rozpoznat|recognize|nhận ra/nhận diện
+třídit|sort|phân loại
+řadit|arrange/sort|sắp xếp
+testovat|test|kiểm tra/thử nghiệm
+ladit|tune/debug|điều chỉnh/gỡ lỗi
+programovat|program|lập trình
+spouštět|run/launch|chạy/khởi động
+optimalizovat|optimize|tối ưu hóa
+zobrazit|display|hiển thị
+vykreslit|plot/render|vẽ/hiển thị
+generovat|generate|tạo ra/sinh ra
+ukládat|save/store|lưu/cất
+zlepšovat|improve|cải thiện
+rozvíjet|develop|phát triển
+vyvinout|develop|phát triển/chế tạo
+vyvíjet|develop|phát triển
+naučit|teach|dạy
+vychovat|bring up|nuôi dạy
+hlídat|guard/babysit|trông/canh
+pečovat|care|chăm sóc
+léčit|treat|chữa/điều trị
+vyléčit|cure|chữa khỏi
+hubnout|lose weight|giảm cân
+přibrat|gain weight|tăng cân
+sportovat|do sports|chơi thể thao
+posilovat|work out/strengthen|tập tạ/tăng cường
+domácnost|household|hộ gia đình/việc nhà
+nádobí|dishes|bát đĩa
+prádlo|laundry/underwear|đồ giặt/đồ lót
+úklid|cleaning|dọn dẹp
+místnost|room|căn phòng
+obývák|living room|phòng khách
+pracovna|study|phòng làm việc
+předsíň|hall|tiền sảnh
+terasa|terrace|sân thượng/hiên
+lavička|bench|ghế băng
+police|shelf|kệ
+zvonek|doorbell|chuông cửa
+schránka|mailbox/box|hộp thư
+klika|handle|tay nắm cửa
+strop|ceiling|trần nhà
+komín|chimney|ống khói
+kamna|stove|lò sưởi
+krb|fireplace|lò sưởi âm tường
+svíčka|candle|nến
+fotka|photo|ảnh
+květináč|flowerpot|chậu hoa
+váza|vase|bình hoa
+kopírka|copier|máy photocopy
+prezentace|presentation|bài thuyết trình
+tabule|board|bảng
+projektor|projector|máy chiếu
+mikrofon|microphone|micro
+sluchátka|headphones|tai nghe
+nabíječka|charger|bộ sạc
+hovor|call/conversation|cuộc gọi/cuộc nói chuyện
+linka|line/extension|đường dây/tuyến
+vrátnice|porter's lodge|phòng bảo vệ
+vrátný|porter|người gác cổng
+sekretářka|secretary|thư ký
+asistent|assistant|trợ lý
+manažer|manager|quản lý
+odborník|expert|chuyên gia
+specialista|specialist|chuyên viên
+technik|technician|kỹ thuật viên
+programátor|programmer|lập trình viên
+výzkumník|researcher|nhà nghiên cứu
+profesor|professor|giáo sư
+docent|associate professor|phó giáo sư
+doktorand|PhD student|nghiên cứu sinh
+školitel|supervisor|người hướng dẫn
+kolegyně|colleague (female)|đồng nghiệp nữ
+výplata|pay/payday|tiền lương/ngày lĩnh lương
+přesčas|overtime|làm thêm giờ
+nemocenská|sick leave|nghỉ ốm
+mateřská|maternity leave|nghỉ thai sản
+úvazek|workload/contract hours|khối lượng công việc/giờ làm
+brigáda|temporary job|việc làm thời vụ
+praxe|practice/experience|thực tập/kinh nghiệm
+stáž|internship|thực tập
+pozitivní|positive|tích cực
+negativní|negative|tiêu cực
+aktivní|active|năng động/tích cực
+pasivní|passive|thụ động
+efektivní|efficient|hiệu quả
+účinný|effective|hiệu quả
+spolehlivý|reliable|đáng tin cậy
+stabilní|stable|ổn định
+flexibilní|flexible|linh hoạt
+komplexní|complex|phức hợp/toàn diện
+náročný|demanding|khó/đòi hỏi cao
+vyčerpaný|exhausted|kiệt sức
+nespokojený|dissatisfied|không hài lòng
+vděčný|grateful|biết ơn
+hrdý|proud|tự hào
+pyšný|proud/arrogant|kiêu hãnh/kiêu ngạo
+skromný|modest|khiêm tốn
+sobecký|selfish|ích kỷ
+štědrý|generous|hào phóng
+lakomý|stingy|keo kiệt
+vtipný|funny|hài hước
+legrační|funny|buồn cười
+nudný|boring|nhàm chán
+zábavný|entertaining|thú vị/vui
+romantický|romantic|lãng mạn
+elegantní|elegant|thanh lịch
+módní|fashionable|hợp thời trang
+těsný|tight|chật
+bavlněný|cotton|bằng cotton
+kožený|leather|bằng da
+dřevěný|wooden|bằng gỗ
+kovový|metal|bằng kim loại
+skleněný|glass|bằng thủy tinh
+plastový|plastic|bằng nhựa
+papírový|paper|bằng giấy
+zlatý|golden|vàng/bằng vàng
+stříbrný|silver|bạc/bằng bạc
+železný|iron|bằng sắt
+kamenný|stone|bằng đá
+jarní|spring|mùa xuân
+letní|summer|mùa hè
+podzimní|autumn|mùa thu
+zimní|winter|mùa đông
+ranní|morning|buổi sáng
+večerní|evening|buổi tối
+noční|night|ban đêm
+sváteční|festive|ngày lễ
+vánoční|Christmas|Giáng sinh
+chování|behaviour|hành vi/cách cư xử
+postoj|attitude|thái độ
+přístup|access/approach|truy cập/cách tiếp cận
+respekt|respect|sự tôn trọng
+úcta|respect|sự kính trọng
+důvěra|trust|lòng tin
+podezření|suspicion|nghi ngờ
+obava|concern/fear|mối lo ngại
+starost|worry|nỗi lo
+potíž|difficulty|khó khăn
+překážka|obstacle|trở ngại
+výzva|challenge/call|thách thức/lời kêu gọi
+úsilí|effort|nỗ lực
+snaha|effort|sự cố gắng
+odměna|reward|phần thưởng
+omluva|apology|lời xin lỗi
+poděkování|thanks|lời cảm ơn
+pozdrav|greeting|lời chào
+gratulace|congratulations|lời chúc mừng
+pozvánka|invitation|thư mời
+souhlas|consent/agreement|sự đồng ý
+nesouhlas|disagreement|sự không đồng ý
+odmítnutí|refusal|sự từ chối
+dotaz|query|câu hỏi/thắc mắc
+stížnost|complaint|đơn khiếu nại/lời phàn nàn
+slib|promise|lời hứa
+tajemství|secret|bí mật
+překvapení|surprise|bất ngờ
+vtip|joke|chuyện cười
+legrace|fun|niềm vui/trò đùa
+smích|laughter|tiếng cười
+úsměv|smile|nụ cười
+slza|tear|nước mắt
+polibek|kiss|nụ hôn
+objetí|hug|cái ôm
+vztek|rage|cơn giận
+hněv|anger|sự tức giận
+žárlivost|jealousy|ghen tuông
+stud|shame|sự xấu hổ
+vina|guilt/fault|lỗi/tội
+odvaha|courage|lòng dũng cảm
+trpělivost|patience|sự kiên nhẫn
+klid|calm/peace|sự yên tĩnh/bình tĩnh
+ticho|silence|sự im lặng
+hluk|noise|tiếng ồn
+křik|shouting|tiếng la hét
+lékařka|doctor (female)|nữ bác sĩ
+učitelka|teacher (female)|cô giáo
+studentka|student (female)|nữ sinh viên
+prodavačka|shop assistant (female)|cô bán hàng
+kamarádka|friend (female)|bạn gái/bạn nữ
+sousedka|neighbour (female)|hàng xóm (nữ)
+Češka|Czech woman|người phụ nữ Séc
+Vietnamka|Vietnamese woman|người phụ nữ Việt
+cizinka|foreigner (female)|người nước ngoài (nữ)
+poštovní|postal|bưu điện
+telefonní|telephone|điện thoại
+internetový|internet|internet
+televizní|television|truyền hình
+filmový|film|điện ảnh/phim
+divadelní|theatre|sân khấu/kịch
+literární|literary|văn học
+literatura|literature|văn học
+básník|poet|nhà thơ
+báseň|poem|bài thơ
+román|novel|tiểu thuyết
+povídka|short story|truyện ngắn
+pohádka|fairy tale|truyện cổ tích
+hrdina|hero|người hùng/nhân vật chính
+postava|character/figure|nhân vật/dáng người
+děj|plot|cốt truyện
+scéna|scene|cảnh
+herec|actor|diễn viên
+herečka|actress|nữ diễn viên
+zpěvák|singer|ca sĩ
+zpěvačka|singer (female)|nữ ca sĩ
+skladatel|composer|nhà soạn nhạc
+kapela|band|ban nhạc
+kytara|guitar|đàn ghi ta
+klavír|piano|đàn piano
+housle|violin|đàn vi-ô-lông
+buben|drum|trống
+tanec|dance|điệu nhảy/khiêu vũ
+malíř|painter|họa sĩ
+sochař|sculptor|nhà điêu khắc
+socha|statue|bức tượng
+architekt|architect|kiến trúc sư
+architektura|architecture|kiến trúc
+styl|style|phong cách
+móda|fashion|thời trang
+design|design|thiết kế
+umělecký|artistic|nghệ thuật
+krása|beauty|vẻ đẹp
+vzhled|appearance|ngoại hình/vẻ ngoài
+výraz|expression|biểu cảm/cụm từ
+gesto|gesture|cử chỉ
+chůze|walking|việc đi bộ
+jízda|ride/drive|chuyến đi/việc lái xe
+plavání|swimming|bơi lội
+lyžování|skiing|trượt tuyết
+cyklistika|cycling|đạp xe
+fitness|fitness|thể hình
+posilovna|gym|phòng tập
+bazén|swimming pool|bể bơi
+hory|mountains|vùng núi
+chata|cottage|nhà nghỉ cuối tuần
+chalupa|country cottage|nhà quê/nhà nghỉ
+stan|tent|lều
+kemp|campsite|khu cắm trại
+kompas|compass|la bàn
+start|start|xuất phát
+kufřík|small suitcase/case|vali nhỏ/cặp
+pohlednice|postcard|bưu thiếp
+suvenýr|souvenir|quà lưu niệm
